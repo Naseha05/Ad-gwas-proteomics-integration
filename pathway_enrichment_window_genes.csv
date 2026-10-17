@@ -1,0 +1,1076 @@
+pathway,overlap,p,loci,fdr
+"GO_BP: regulation of complement activation, classical pathway (GO:0030450)",6,1.340436137970015e-07,2,8.968472738680051e-05
+GO_BP: positive regulation of regulatory T cell differentiation (GO:0045591),7,1.668553067661405e-07,5,8.968472738680051e-05
+KEGG: KEGG_ASTHMA,9,2.714559246132605e-07,3,9.727170631975168e-05
+GO_BP: antigen receptor-mediated signaling pathway (GO:0050851),21,1.5233922787910026e-06,12,0.0004094116749250819
+"GO_BP: negative regulation of complement activation, classical pathway (GO:0045959)",5,2.5930336111170316e-06,1,0.0005575022263901618
+GO_BP: negative regulation of humoral immune response mediated by circulating immunoglobulin (GO:0002924),5,1.1008320586541507e-05,1,0.0019723241050886866
+GO_BP: neutrophil mediated immunity (GO:0002446),36,1.695387087996151e-05,21,0.002603630170851232
+KEGG: KEGG_ANTIGEN_PROCESSING_AND_PRESENTATION,12,2.2481848535248004e-05,4,0.002633677636171378
+GO_BP: antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886),13,2.7723401585791658e-05,6,0.002633677636171378
+GO_BP: T cell receptor signaling pathway (GO:0050852),17,2.919044995060741e-05,8,0.002633677636171378
+GO_BP: negative regulation of amyloid precursor protein catabolic process (GO:1902992),6,3.211726041177423e-05,6,0.002633677636171378
+GO_BP: negative regulation of complement activation (GO:0045916),5,3.264284268349097e-05,1,0.002633677636171378
+GO_BP: phospholipid efflux (GO:0033700),5,3.264284268349097e-05,3,0.002633677636171378
+GO_BP: antigen processing and presentation of peptide antigen via MHC class II (GO:0002495),13,3.463963673959927e-05,6,0.002633677636171378
+GO_BP: regulation of immune response (GO:0050776),18,4.0762983035260934e-05,7,0.002633677636171378
+GO_BP: chylomicron remnant clearance (GO:0034382),4,4.699018976608831e-05,2,0.002633677636171378
+"GO_BP: regulation of CD4-positive, alpha-beta T cell activation (GO:2000514)",4,4.699018976608831e-05,3,0.002633677636171378
+GO_BP: antigen processing and presentation of exogenous peptide antigen (GO:0002478),13,4.782878232668187e-05,6,0.002633677636171378
+GO_BP: regulation of protein targeting to membrane (GO:0090313),7,4.810723834314795e-05,6,0.002633677636171378
+GO_BP: regulation of protein tyrosine kinase activity (GO:0061097),8,4.899865369621168e-05,8,0.002633677636171378
+GO_BP: plasma membrane organization (GO:0007009),10,5.902083101542818e-05,9,0.003021304444837395
+GO_BP: negative regulation of protein kinase activity (GO:0006469),12,6.551830670268776e-05,11,0.003189200876280597
+GO_BP: neutrophil degranulation (GO:0043312),34,6.823406525995695e-05,19,0.003189200876280597
+KEGG: KEGG_TYPE_I_DIABETES_MELLITUS,8,7.157179365490789e-05,2,0.0032058199241260825
+GO_BP: regulation of immune effector process (GO:0002697),9,8.010956454708108e-05,4,0.0032163370523968205
+GO_BP: neutrophil activation involved in immune response (GO:0002283),34,8.033456524753241e-05,19,0.0032163370523968205
+GO_BP: microglial cell activation (GO:0001774),6,8.078241899043177e-05,6,0.0032163370523968205
+GO_BP: positive regulation of T cell differentiation (GO:0045582),8,0.00010216752585295616,6,0.003922503224711709
+GO_BP: positive regulation of protein targeting to membrane (GO:0090314),6,0.00013732205374596346,6,0.0050903864750658865
+KEGG: KEGG_LEISHMANIA_INFECTION,10,0.0001472859406873157,4,0.0052777462079621465
+KEGG: KEGG_HEMATOPOIETIC_CELL_LINEAGE,11,0.000172123303508633,7,0.005713955810234893
+KEGG: KEGG_ALLOGRAFT_REJECTION,7,0.0001728920344642127,1,0.005713955810234893
+GO_BP: negative regulation of endocytosis (GO:0045806),6,0.00017540515510488508,4,0.005713955810234893
+GO_BP: macrophage activation (GO:0042116),7,0.00020824651661366915,6,0.006410061735537691
+GO_BP: reverse cholesterol transport (GO:0043691),5,0.0002206253806650182,4,0.006410061735537691
+GO_BP: negative regulation of amyloid-beta formation (GO:1902430),5,0.0002206253806650182,5,0.006410061735537691
+GO_BP: regulation of NLRP3 inflammasome complex assembly (GO:1900225),5,0.0002206253806650182,5,0.006410061735537691
+KEGG: KEGG_GRAFT_VERSUS_HOST_DISEASE,7,0.0002492088564518943,1,0.007049987386468063
+GO_BP: ionotropic glutamate receptor signaling pathway (GO:0035235),4,0.00025926746256179484,4,0.007146474929587935
+GO_BP: regulation of apoptotic signaling pathway (GO:2001233),7,0.00029641329242614177,6,0.00796610723395256
+GO_BP: cholesterol transport (GO:0030301),8,0.00035133965952000224,6,0.009211954487414692
+KEGG: KEGG_VIRAL_MYOCARDITIS,9,0.0005607986009723469,3,0.014353773715363642
+GO_BP: regulation of signal transduction (GO:0009966),17,0.000579401811380833,14,0.014485045284520824
+Hallmark: HALLMARK_COMPLEMENT,17,0.0006136019710692252,12,0.014991411793168572
+GO_BP: regulation of lipoprotein lipase activity (GO:0051004),5,0.0006463664490168625,4,0.015440976282069495
+GO_BP: regulation of hematopoietic stem cell differentiation (GO:1902036),9,0.0007728199625873976,8,0.017436434078973623
+GO_BP: positive regulation of protein localization to membrane (GO:1905477),11,0.0007776073918004053,9,0.017436434078973623
+GO_BP: vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane (GO:1990668),3,0.00077855705654952,2,0.017436434078973623
+GO_BP: macrophage activation involved in immune response (GO:0002281),4,0.0008119973416588159,4,0.017814227393535248
+GO_BP: positive regulation of protein-containing complex assembly (GO:0031334),12,0.000845729904633218,10,0.01801259672840509
+GO_BP: regulation of tumor necrosis factor-mediated signaling pathway (GO:0010803),8,0.0008545511006034042,7,0.01801259672840509
+KEGG: KEGG_INTESTINAL_IMMUNE_NETWORK_FOR_IGA_PRODUCTION,7,0.0009884183914989522,1,0.0204336494396418
+GO_BP: regulation of amyloid-beta formation (GO:1902003),6,0.001020818876997136,6,0.020705288542866438
+GO_BP: antigen processing and presentation of endogenous peptide antigen (GO:0002483),4,0.0011056524842369725,1,0.021610480373722644
+GO_BP: amyloid precursor protein catabolic process (GO:0042987),4,0.0011056524842369725,4,0.021610480373722644
+GO_BP: regulation of hematopoietic progenitor cell differentiation (GO:1901532),9,0.0011526765766325846,7,0.02212727356928622
+GO_BP: cholesterol efflux (GO:0033344),5,0.001238386374904465,3,0.023355532509163158
+GO_BP: positive regulation of amyloid-beta clearance (GO:1900223),3,0.0013272322066370935,3,0.023691001983951552
+"GO_BP: complement activation, alternative pathway (GO:0006957)",3,0.0013272322066370935,2,0.023691001983951552
+GO_BP: negative regulation of kinase activity (GO:0033673),8,0.0013348979726354887,8,0.023691001983951552
+GO_BP: positive regulation of MAPK cascade (GO:0043410),20,0.001344326624205623,17,0.023691001983951552
+GO_BP: regulation of complement activation (GO:0030449),7,0.0014499011664089274,3,0.024631823566465327
+GO_BP: regulation of amyloid fibril formation (GO:1905906),4,0.0014664527518639823,4,0.024631823566465327
+GO_BP: peptidyl-tyrosine autophosphorylation (GO:0038083),4,0.0014664527518639823,4,0.024631823566465327
+GO_BP: acylglycerol homeostasis (GO:0055090),5,0.0015041316798543607,3,0.02487602393605289
+KEGG: KEGG_AUTOIMMUNE_THYROID_DISEASE,7,0.001636214478789531,1,0.026650463101496148
+GO_BP: negative regulation of receptor-mediated endocytosis (GO:0048261),5,0.001809552198309307,4,0.02860689137033096
+GO_BP: regulation of regulatory T cell differentiation (GO:0045589),5,0.001809552198309307,4,0.02860689137033096
+GO_BP: negative regulation of protein metabolic process (GO:0051248),7,0.0018406263818551384,7,0.028676425514409767
+GO_BP: regulation of amyloid-beta clearance (GO:1900221),4,0.0019018340271931113,4,0.029206736846179925
+GO_BP: regulation of primary metabolic process (GO:0080090),12,0.0019621811951590624,11,0.029709081475999887
+GO_BP: membrane protein proteolysis (GO:0033619),6,0.0021376468982084985,6,0.031779027510228285
+GO_BP: regulation of epidermal growth factor-activated receptor activity (GO:0007176),5,0.0021580176820899205,5,0.031779027510228285
+GO_BP: cytosolic transport (GO:0016482),11,0.002411365826912932,9,0.034217943026411464
+GO_BP: amyloid-beta metabolic process (GO:0050435),4,0.0024191289953556013,4,0.034217943026411464
+GO_BP: synaptic vesicle membrane organization (GO:0048499),4,0.0024191289953556013,3,0.034217943026411464
+GO_BP: lymphocyte differentiation (GO:0030098),9,0.002564730615041906,9,0.035477600964091985
+GO_BP: regulation of humoral immune response (GO:0002920),7,0.0025741887211155113,3,0.035477600964091985
+GO_BP: negative regulation of metabolic process (GO:0009892),7,0.002862864070380453,6,0.037818952160353185
+GO_BP: histone H3-K4 methylation (GO:0051568),5,0.002997730834896193,4,0.037818952160353185
+GO_BP: very-low-density lipoprotein particle remodeling (GO:0034372),3,0.003023126781714225,2,0.037818952160353185
+GO_BP: Notch receptor processing (GO:0007220),3,0.003023126781714225,3,0.037818952160353185
+GO_BP: positive regulation of memory T cell differentiation (GO:0043382),3,0.003023126781714225,2,0.037818952160353185
+GO_BP: regulation of aspartic-type endopeptidase activity involved in amyloid precursor protein catabolic process (GO:1902959),3,0.003023126781714225,3,0.037818952160353185
+GO_BP: high-density lipoprotein particle remodeling (GO:0034375),4,0.003025516172828255,2,0.037818952160353185
+GO_BP: amyloid precursor protein metabolic process (GO:0042982),4,0.003025516172828255,4,0.037818952160353185
+GO_BP: regulation of chemokine production (GO:0032642),6,0.003147448271873124,6,0.03889088381912193
+GO_BP: positive regulation of endopeptidase activity (GO:0010950),5,0.0034958429499272704,5,0.04242969878495636
+GO_BP: negative regulation of cell cycle G2-M phase transition (GO:1902750),7,0.003513977296037142,6,0.04242969878495636
+GO_BP: positive regulation of leukocyte mediated cytotoxicity (GO:0001912),6,0.003552253851763788,4,0.04242969878495636
+GO_BP: innate immune response (GO:0045087),20,0.0036110376563167814,14,0.04259951423615381
+"GO_BP: synaptic transmission, cholinergic (GO:0007271)",4,0.003727975394005962,4,0.04259951423615381
+GO_BP: negative regulation of calcium ion transport (GO:0051926),4,0.003727975394005962,4,0.04259951423615381
+GO_BP: protein autophosphorylation (GO:0046777),13,0.0037913219232838663,11,0.04259951423615381
+GO_BP: post-Golgi vesicle-mediated transport (GO:0006892),9,0.003801296274422231,9,0.04259951423615381
+GO_BP: defense response to Gram-negative bacterium (GO:0050829),8,0.0038042356899262936,6,0.04259951423615381
+GO_BP: triglyceride homeostasis (GO:0070328),5,0.004050700979618093,3,0.044891789207107735
+GO_BP: positive regulation of supramolecular fiber organization (GO:1902905),9,0.0040968108817852735,8,0.04493950712162418
+GO_BP: regulation of memory T cell differentiation (GO:0043380),3,0.004207637918493837,2,0.04502430240342868
+GO_BP: negative regulation of cholesterol storage (GO:0010887),3,0.004207637918493837,3,0.04502430240342868
+GO_BP: phospholipid transport (GO:0015914),7,0.004272073344325326,5,0.04502430240342868
+GO_BP: regulation of secretion by cell (GO:1903530),7,0.004272073344325326,7,0.04502430240342868
+GO_BP: regulation of stem cell differentiation (GO:2000736),9,0.004409974040314425,8,0.04602122287889048
+GO_BP: positive regulation of immune response (GO:0050778),8,0.004495096188170698,5,0.04602122287889048
+GO_BP: positive regulation of interleukin-6 production (GO:0032755),8,0.004495096188170698,7,0.04602122287889048
+GO_BP: regulation of protein kinase activity (GO:0045859),10,0.004736448403403499,10,0.047195322533540515
+GO_BP: Wnt signaling pathway (GO:0016055),9,0.00474148356616035,8,0.047195322533540515
+GO_BP: regulation of lipid metabolic process (GO:0019216),9,0.00474148356616035,8,0.047195322533540515
+GO_BP: B cell differentiation (GO:0030183),7,0.0051477286468938396,7,0.05076888344413649
+GO_BP: Fc-epsilon receptor signaling pathway (GO:0038095),10,0.005384852053808606,9,0.05223870036376625
+"GO_BP: nucleotide-excision repair, preincision complex stabilization (GO:0006293)",4,0.005447809890928034,4,0.05223870036376625
+"GO_BP: nucleotide-excision repair, DNA incision, 3'-to lesion (GO:0006295)",4,0.005447809890928034,4,0.05223870036376625
+GO_BP: positive regulation of myeloid leukocyte mediated immunity (GO:0002888),3,0.0056369202252994285,2,0.05223870036376625
+GO_BP: Golgi to lysosome transport (GO:0090160),3,0.0056369202252994285,3,0.05223870036376625
+GO_BP: protein kinase C-activating G protein-coupled receptor signaling pathway (GO:0007205),3,0.0056369202252994285,3,0.05223870036376625
+GO_BP: positive regulation by host of viral process (GO:0044794),3,0.0056369202252994285,3,0.05223870036376625
+GO_BP: Fc receptor signaling pathway (GO:0038093),10,0.005734067781282359,9,0.05268481081092766
+GO_BP: B cell receptor signaling pathway (GO:0050853),5,0.006089688924773072,5,0.05431558009311257
+GO_BP: negative regulation of T cell proliferation (GO:0042130),5,0.006089688924773072,5,0.05431558009311257
+GO_BP: regulation of cellular response to heat (GO:1900034),8,0.006162087979030053,7,0.05431558009311257
+GO_BP: positive regulation of actin filament polymerization (GO:0030838),6,0.006178219165836699,6,0.05431558009311257
+GO_BP: regulation of interleukin-10 production (GO:0032653),6,0.006178219165836699,6,0.05431558009311257
+GO_BP: regulation of MAP kinase activity (GO:0043405),9,0.006265239006089263,8,0.05431558009311257
+GO_BP: regulation of vesicle-mediated transport (GO:0060627),9,0.006265239006089263,9,0.05431558009311257
+GO_BP: positive regulation of ERK1 and ERK2 cascade (GO:0070374),13,0.006318719459231057,13,0.054340987349387096
+GO_BP: membrane protein intracellular domain proteolysis (GO:0031293),4,0.00647783104599153,4,0.05483203444441649
+GO_BP: osteoclast differentiation (GO:0030316),4,0.00647783104599153,3,0.05483203444441649
+GO_BP: positive regulation of cell cycle (GO:0045787),7,0.006705201004020567,7,0.05631321155720398
+GO_BP: positive regulation of cell cycle G1-S phase transition (GO:1902808),5,0.006905261742763327,5,0.05704686056140734
+GO_BP: tumor necrosis factor-mediated signaling pathway (GO:0033209),10,0.007310954684376531,8,0.05704686056140734
+GO_BP: very-low-density lipoprotein particle assembly (GO:0034379),3,0.007323224890673686,2,0.05704686056140734
+GO_BP: synaptic vesicle fusion to presynaptic active zone membrane (GO:0031629),3,0.007323224890673686,2,0.05704686056140734
+GO_BP: glycine metabolic process (GO:0006544),3,0.007323224890673686,2,0.05704686056140734
+GO_BP: regulation of axon regeneration (GO:0048679),3,0.007323224890673686,2,0.05704686056140734
+GO_BP: regulation of sequestering of calcium ion (GO:0051282),3,0.007323224890673686,3,0.05704686056140734
+GO_BP: negative regulation of amyloid fibril formation (GO:1905907),3,0.007323224890673686,3,0.05704686056140734
+"GO_BP: positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)",3,0.007323224890673686,2,0.05704686056140734
+GO_BP: regulation of amyloid precursor protein catabolic process (GO:1902991),3,0.007323224890673686,3,0.05704686056140734
+GO_BP: positive regulation of cholesterol efflux (GO:0010875),4,0.00762916432416593,4,0.057808212116957323
+GO_BP: membrane protein ectodomain proteolysis (GO:0006509),4,0.00762916432416593,4,0.057808212116957323
+GO_BP: positive regulation of stress-activated MAPK cascade (GO:0032874),9,0.00763606150754227,9,0.057808212116957323
+GO_BP: response to UV (GO:0009411),9,0.00763606150754227,8,0.057808212116957323
+GO_BP: regulation of ERK1 and ERK2 cascade (GO:0070372),16,0.00774810922739255,15,0.058185857737844335
+GO_BP: membrane assembly (GO:0071709),5,0.00779419861790659,5,0.058185857737844335
+GO_BP: ERBB signaling pathway (GO:0038127),7,0.007922036922699346,7,0.058330066382889026
+GO_BP: interferon-gamma-mediated signaling pathway (GO:0060333),7,0.007922036922699346,1,0.058330066382889026
+GO_BP: negative regulation of macromolecule metabolic process (GO:0010605),14,0.008140389826204611,12,0.0595300616542174
+GO_BP: negative regulation of protein-containing complex assembly (GO:0031333),6,0.008308208787015579,6,0.06034678679757938
+GO_BP: defense response to bacterium (GO:0042742),13,0.008385200264510262,9,0.06049725023052706
+GO_BP: lysosome organization (GO:0007040),5,0.00875963634456705,5,0.06277739380273052
+GO_BP: negative regulation of protein tyrosine kinase activity (GO:0061099),4,0.008907319914018228,3,0.06341303912297745
+GO_BP: glycerophospholipid biosynthetic process (GO:0046474),13,0.009181133890281629,12,0.06351807415306696
+KEGG: KEGG_LYSOSOME,10,0.00920381194873343,10,0.06351807415306696
+GO_BP: UDP-N-acetylglucosamine metabolic process (GO:0006047),3,0.009276593155378151,3,0.06351807415306696
+GO_BP: spliceosomal tri-snRNP complex assembly (GO:0000244),3,0.009276593155378151,3,0.06351807415306696
+GO_BP: triglyceride-rich lipoprotein particle remodeling (GO:0034370),3,0.009276593155378151,2,0.06351807415306696
+GO_BP: high-density lipoprotein particle assembly (GO:0034380),3,0.009276593155378151,3,0.06351807415306696
+GO_BP: positive regulation of response to external stimulus (GO:0032103),11,0.009409130023726814,10,0.06401781503485016
+"GO_BP: Wnt signaling pathway, planar cell polarity pathway (GO:0060071)",8,0.009492221025260256,6,0.06417696605128789
+GO_BP: protein transport (GO:0015031),22,0.009759947307876651,18,0.06546566844815746
+GO_BP: negative regulation of lymphocyte proliferation (GO:0050672),5,0.009804625693165907,5,0.06546566844815746
+GO_BP: peptidyl-tyrosine phosphorylation (GO:0018108),7,0.010042265545068145,6,0.06622966540459052
+GO_BP: wound healing (GO:0042060),7,0.010042265545068145,6,0.06622966540459052
+GO_BP: negative regulation of cellular amide metabolic process (GO:0034249),8,0.010156673176637513,8,0.06657575405417882
+GO_BP: negative regulation of ion transport (GO:0043271),4,0.010317451006239922,4,0.0668148182633007
+GO_BP: positive regulation of T cell migration (GO:2000406),4,0.010317451006239922,4,0.0668148182633007
+GO_BP: positive regulation of cell motility (GO:2000147),15,0.010770997423709355,12,0.06872533197593905
+"GO_BP: DNA-templated transcription, termination (GO:0006353)",7,0.010833060510393303,7,0.06872533197593905
+GO_BP: regulation of cellular amino acid metabolic process (GO:0006521),6,0.01091982550379733,5,0.06872533197593905
+GO_BP: detection of chemical stimulus involved in sensory perception of bitter taste (GO:0001580),5,0.010932122574777282,2,0.06872533197593905
+GO_BP: regulation of peptidyl-threonine phosphorylation (GO:0010799),5,0.010932122574777282,5,0.06872533197593905
+GO_BP: supramolecular fiber organization (GO:0097435),21,0.011301063108251986,15,0.07063164442657491
+GO_BP: non-canonical Wnt signaling pathway (GO:0035567),10,0.011450596672724049,8,0.07115255157906562
+GO_BP: regulation of establishment of planar polarity (GO:0090175),8,0.011588250977350409,6,0.07159407931409016
+GO_BP: myeloid leukocyte differentiation (GO:0002573),7,0.011668099574626658,5,0.0716526254268835
+GO_BP: protein deubiquitination (GO:0016579),17,0.011734558176216386,13,0.0716526254268835
+GO_BP: negative regulation of protein localization to membrane (GO:1905476),4,0.011864341698590943,4,0.0716526254268835
+GO_BP: positive regulation of T cell mediated cytotoxicity (GO:0001916),4,0.011864341698590943,2,0.0716526254268835
+GO_BP: synaptic vesicle exocytosis (GO:0016079),5,0.01214497988536009,4,0.07253251875978942
+GO_BP: sensory perception of bitter taste (GO:0050913),5,0.01214497988536009,2,0.07253251875978942
+GO_BP: positive regulation of interleukin-1 beta production (GO:0032731),6,0.012954075307918278,5,0.07693718760227707
+GO_BP: regulation of interleukin-6 production (GO:0032675),9,0.01313639331251089,8,0.07759133412609454
+GO_BP: acylglycerol metabolic process (GO:0006639),5,0.013445940027302447,4,0.07832703173646918
+"GO_BP: antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)",7,0.013476135821504377,4,0.07832703173646918
+GO_BP: intracellular protein transport (GO:0006886),20,0.0134884282842516,14,0.07832703173646918
+GO_BP: cellular response to cadmium ion (GO:0071276),4,0.01355239804928676,4,0.07832703173646918
+GO_BP: DNA-dependent DNA replication (GO:0006261),10,0.014815272954945476,9,0.08439391645522487
+GO_BP: positive regulation of canonical Wnt signaling pathway (GO:0090263),10,0.014815272954945476,9,0.08439391645522487
+GO_BP: positive regulation of protein tyrosine kinase activity (GO:0061098),5,0.014837628102360464,5,0.08439391645522487
+GO_BP: regulation of calcium ion transport (GO:0051924),6,0.015239945669744083,5,0.08620412184785686
+GO_BP: regulation of small molecule metabolic process (GO:0062012),4,0.015385641981842887,4,0.08620412184785686
+GO_BP: regulation of T cell proliferation (GO:0042129),7,0.015476646992219883,6,0.08620412184785686
+GO_BP: integrin-mediated signaling pathway (GO:0007229),7,0.015476646992219883,7,0.08620412184785686
+GO_BP: lipid modification (GO:0030258),5,0.01632254576691265,5,0.08858183111400302
+GO_BP: DNA synthesis involved in DNA repair (GO:0000731),5,0.01632254576691265,5,0.08858183111400302
+GO_BP: detection of chemical stimulus involved in sensory perception of taste (GO:0050912),5,0.01632254576691265,2,0.08858183111400302
+KEGG: KEGG_CELL_ADHESION_MOLECULES_CAMS,10,0.01634953647046373,3,0.08858183111400302
+GO_BP: cellular response to tumor necrosis factor (GO:0071356),13,0.016532055031511384,11,0.08858183111400302
+GO_BP: positive regulation of tumor necrosis factor production (GO:0032760),7,0.016552201471579937,7,0.08858183111400302
+GO_BP: negative regulation of protein phosphorylation (GO:0001933),11,0.01672330414190668,11,0.08858183111400302
+GO_BP: Golgi to endosome transport (GO:0006895),3,0.01680994748582011,3,0.08858183111400302
+GO_BP: T cell mediated immunity (GO:0002456),3,0.01680994748582011,2,0.08858183111400302
+GO_BP: negative regulation of immune effector process (GO:0002698),3,0.01680994748582011,2,0.08858183111400302
+GO_BP: regulation of cholesterol storage (GO:0010885),3,0.01680994748582011,3,0.08858183111400302
+GO_BP: regulation of fatty acid biosynthetic process (GO:0042304),4,0.017367707765354356,3,0.09019461762200934
+GO_BP: response to cadmium ion (GO:0046686),4,0.017367707765354356,4,0.09019461762200934
+"GO_BP: nucleotide-excision repair, preincision complex assembly (GO:0006294)",4,0.017367707765354356,4,0.09019461762200934
+GO_BP: positive regulation of Wnt signaling pathway (GO:0030177),11,0.01748368010773577,10,0.09036036594142285
+GO_BP: mRNA metabolic process (GO:0016071),8,0.017778377570016324,8,0.0907820550378117
+GO_BP: positive regulation of stress fiber assembly (GO:0051496),5,0.017903065737689378,5,0.0907820550378117
+GO_BP: negative regulation of T cell activation (GO:0050868),5,0.017903065737689378,5,0.0907820550378117
+KEGG: KEGG_PROTEASOME,5,0.017903065737689378,4,0.0907820550378117
+GO_BP: antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590),7,0.0188599387262966,4,0.09433763677267674
+GO_BP: regulation of NIK-NF-kappaB signaling (GO:1901222),7,0.0188599387262966,6,0.09433763677267674
+GO_BP: positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),10,0.01886752735453535,10,0.09433763677267674
+GO_BP: positive regulation of protein kinase activity (GO:0045860),11,0.01908134861029398,8,0.09496504516697235
+GO_BP: negative regulation of intracellular signal transduction (GO:1902532),13,0.019287797773062103,12,0.09514937417540378
+GO_BP: positive regulation of proteolysis involved in cellular protein catabolic process (GO:1903052),4,0.019501840813881607,4,0.09514937417540378
+GO_BP: regulation of long-term synaptic potentiation (GO:1900271),4,0.019501840813881607,4,0.09514937417540378
+GO_BP: positive regulation of cyclin-dependent protein serine-threonine kinase activity (GO:0045737),3,0.019893694305205357,3,0.09514937417540378
+GO_BP: sulfation (GO:0051923),3,0.019893694305205357,3,0.09514937417540378
+GO_BP: positive regulation of telomere capping (GO:1904355),3,0.019893694305205357,3,0.09514937417540378
+GO_BP: ruffle organization (GO:0031529),3,0.019893694305205357,3,0.09514937417540378
+GO_BP: maturation of 5.8S rRNA (GO:0000460),3,0.019893694305205357,3,0.09514937417540378
+GO_BP: protein maturation (GO:0051604),8,0.019914985292526374,8,0.09514937417540378
+GO_BP: positive regulation of interleukin-1 production (GO:0032732),6,0.020621012094533753,5,0.09765457269437791
+GO_BP: response to retinoic acid (GO:0032526),6,0.020621012094533753,5,0.09765457269437791
+GO_BP: negative regulation of cold-induced thermogenesis (GO:0120163),5,0.02135973023835152,5,0.10038449666127876
+GO_BP: positive regulation of tumor necrosis factor superfamily cytokine production (GO:1903557),7,0.021384232312030543,7,0.10038449666127876
+GO_BP: regulation of cellular component organization (GO:0051128),10,0.021659256877400425,9,0.10123348323132808
+GO_BP: epidermal growth factor receptor signaling pathway (GO:0007173),5,0.023239934862837264,5,0.10598465964642731
+GO_BP: regulation of protein metabolic process (GO:0051246),5,0.023239934862837264,5,0.10598465964642731
+GO_BP: positive regulation of stress-activated protein kinase signaling cascade (GO:0070304),3,0.023267329931680788,3,0.10598465964642731
+GO_BP: regulation of transcription by RNA polymerase I (GO:0006356),3,0.023267329931680788,3,0.10598465964642731
+GO_BP: negative regulation of cation transmembrane transport (GO:1904063),3,0.023267329931680788,3,0.10598465964642731
+GO_BP: positive regulation of lymphocyte chemotaxis (GO:0140131),3,0.023267329931680788,3,0.10598465964642731
+GO_BP: protein-DNA complex assembly (GO:0065004),10,0.023679970682612475,8,0.10678342100065222
+GO_BP: lipid homeostasis (GO:0055088),6,0.023741224601102753,6,0.10678342100065222
+GO_BP: pre-replicative complex assembly (GO:0036388),6,0.023741224601102753,5,0.10678342100065222
+GO_BP: lytic vacuole organization (GO:0080171),4,0.024237353231775945,4,0.10678342100065222
+GO_BP: positive regulation of telomere maintenance (GO:0032206),4,0.024237353231775945,3,0.10678342100065222
+GO_BP: regulation of cell migration involved in sprouting angiogenesis (GO:0090049),4,0.024237353231775945,4,0.10678342100065222
+GO_BP: positive regulation of interleukin-10 production (GO:0032733),4,0.024237353231775945,4,0.10678342100065222
+GO_BP: transcription initiation from RNA polymerase I promoter (GO:0006361),4,0.024237353231775945,4,0.10678342100065222
+GO_BP: positive regulation of cell population proliferation (GO:0008284),25,0.024733030702489504,19,0.10852248165378046
+GO_BP: protein phosphorylation (GO:0006468),26,0.02503320915979868,20,0.10939308880806332
+GO_BP: Golgi to plasma membrane transport (GO:0006893),5,0.025223855292721035,5,0.10977993700273325
+GO_BP: regulation of Notch signaling pathway (GO:0008593),7,0.02559588502590801,6,0.11038212671122169
+GO_BP: positive regulation of cell migration (GO:0030335),16,0.02675067351623331,14,0.11038212671122169
+GO_BP: regulation of cholesterol efflux (GO:0010874),4,0.026843296179755595,4,0.11038212671122169
+GO_BP: positive regulation of cholesterol transport (GO:0032376),4,0.026843296179755595,4,0.11038212671122169
+GO_BP: regulation of histone acetylation (GO:0035065),4,0.026843296179755595,4,0.11038212671122169
+GO_BP: positive regulation of organelle organization (GO:0010638),4,0.026843296179755595,4,0.11038212671122169
+GO_BP: positive regulation of macrophage migration (GO:1905523),3,0.026930958907494806,3,0.11038212671122169
+GO_BP: adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002460),3,0.026930958907494806,2,0.11038212671122169
+GO_BP: positive regulation of mitochondrial fission (GO:0090141),3,0.026930958907494806,3,0.11038212671122169
+GO_BP: regulation of leukocyte chemotaxis (GO:0002688),3,0.026930958907494806,3,0.11038212671122169
+GO_BP: regulation of oligodendrocyte differentiation (GO:0048713),3,0.026930958907494806,3,0.11038212671122169
+GO_BP: aspartate family amino acid catabolic process (GO:0009068),3,0.026930958907494806,2,0.11038212671122169
+GO_BP: myeloid cell activation involved in immune response (GO:0002275),3,0.026930958907494806,3,0.11038212671122169
+GO_BP: positive regulation of alpha-beta T cell activation (GO:0046635),3,0.026930958907494806,2,0.11038212671122169
+GO_BP: B cell activation (GO:0042113),7,0.02711726715943986,7,0.11038212671122169
+GO_BP: negative regulation of G2-M transition of mitotic cell cycle (GO:0010972),6,0.02716290635106522,5,0.11038212671122169
+GO_BP: oligosaccharide metabolic process (GO:0009311),5,0.027313158795520903,5,0.11038212671122169
+GO_BP: regulation of stress-activated MAPK cascade (GO:0032872),5,0.027313158795520903,4,0.11038212671122169
+Hallmark: HALLMARK_REACTIVE_OXYGEN_SPECIES_PATHWAY,5,0.027313158795520903,4,0.11038212671122169
+KEGG: KEGG_ALZHEIMERS_DISEASE,11,0.02763267401797269,11,0.11125514819970278
+GO_BP: regulation of tumor necrosis factor production (GO:0032680),9,0.02813214294940813,8,0.11284348384557366
+GO_BP: regulation of epidermal growth factor receptor signaling pathway (GO:0042058),6,0.02898993689685797,6,0.11585197830528743
+GO_BP: termination of RNA polymerase II transcription (GO:0006369),4,0.029610443813753242,4,0.11659790146441294
+GO_BP: positive regulation of epidermal growth factor receptor signaling pathway (GO:0045742),4,0.029610443813753242,4,0.11659790146441294
+GO_BP: protein insertion into membrane (GO:0051205),4,0.029610443813753242,3,0.11659790146441294
+GO_BP: transcription by RNA polymerase I (GO:0006360),4,0.029610443813753242,4,0.11659790146441294
+GO_BP: positive regulation of gene expression (GO:0010628),25,0.030146683169922358,21,0.11777714331338686
+GO_BP: nucleotide-excision repair (GO:0006289),8,0.030294199728462125,8,0.11777714331338686
+GO_BP: activation of GTPase activity (GO:0090630),8,0.030294199728462125,8,0.11777714331338686
+GO_BP: negative regulation of lipid storage (GO:0010888),3,0.03088349590846579,3,0.11777714331338686
+GO_BP: positive regulation of cyclin-dependent protein kinase activity (GO:1904031),3,0.03088349590846579,3,0.11777714331338686
+GO_BP: protein targeting to lysosome (GO:0006622),3,0.03088349590846579,3,0.11777714331338686
+GO_BP: mesoderm development (GO:0007498),3,0.03088349590846579,3,0.11777714331338686
+GO_BP: regulation of TOR signaling (GO:0032006),6,0.03089595759476753,6,0.11777714331338686
+GO_BP: positive regulation of protein polymerization (GO:0032273),6,0.03089595759476753,6,0.11777714331338686
+GO_BP: positive regulation of actin filament bundle assembly (GO:0032233),5,0.03181383680336502,5,0.11920438685739383
+GO_BP: regulation of cellular amine metabolic process (GO:0033238),5,0.03181383680336502,4,0.11920438685739383
+GO_BP: DNA duplex unwinding (GO:0032508),5,0.03181383680336502,5,0.11920438685739383
+GO_BP: regulation of intrinsic apoptotic signaling pathway (GO:2001242),5,0.03181383680336502,4,0.11920438685739383
+GO_BP: regulation of mRNA stability (GO:0043488),10,0.03182479909588096,8,0.11920438685739383
+GO_BP: regulation of intracellular signal transduction (GO:1902531),23,0.03225874456392642,21,0.12041024446604479
+KEGG: KEGG_COMPLEMENT_AND_COAGULATION_CASCADES,6,0.03288202350426271,3,0.1223120251456139
+GO_BP: regulation of exocytosis (GO:0017157),5,0.0342277947463085,5,0.12687889431821253
+GO_BP: regulation of cholesterol metabolic process (GO:0090181),3,0.03512277691138876,3,0.12930474376624287
+GO_BP: intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator (GO:0042771),3,0.03512277691138876,3,0.12930474376624287
+GO_BP: intrinsic apoptotic signaling pathway by p53 class mediator (GO:0072332),4,0.03563338798966809,4,0.13034161881694223
+GO_BP: protein import (GO:0017038),7,0.035646917146214895,6,0.13034161881694223
+GO_BP: positive regulation of chemokine production (GO:0032722),5,0.03675230122738812,5,0.13382714854822145
+GO_BP: cholesterol homeostasis (GO:0042632),6,0.03709813048127441,5,0.13382714854822145
+GO_BP: regulation of endopeptidase activity (GO:0052548),6,0.03709813048127441,4,0.13382714854822145
+GO_BP: positive regulation of cellular protein localization (GO:1903829),6,0.03709813048127441,6,0.13382714854822145
+GO_BP: negative regulation of MAPK cascade (GO:0043409),7,0.03754313109120708,6,0.1349794846924669
+GO_BP: cellular protein localization (GO:0034613),18,0.03817338490406353,14,0.13678796257289433
+"GO_BP: nucleotide-excision repair, DNA incision, 5'-to lesion (GO:0006296)",4,0.038890812431498514,4,0.13792585059291795
+GO_BP: sterol homeostasis (GO:0055092),6,0.03932989749383266,5,0.13792585059291795
+GO_BP: positive regulation of leukocyte chemotaxis (GO:0002690),5,0.03938826813795861,5,0.13792585059291795
+GO_BP: positive regulation of transport (GO:0051050),7,0.03950448155228504,6,0.13792585059291795
+GO_BP: toll-like receptor signaling pathway (GO:0002224),7,0.03950448155228504,7,0.13792585059291795
+GO_BP: positive regulation of peptidase activity (GO:0010952),3,0.039645663100662,3,0.13792585059291795
+GO_BP: regulation of centrosome cycle (GO:0046605),3,0.039645663100662,3,0.13792585059291795
+GO_BP: regulation of macrophage chemotaxis (GO:0010758),3,0.039645663100662,3,0.13792585059291795
+GO_BP: proteasomal ubiquitin-independent protein catabolic process (GO:0010499),3,0.039645663100662,2,0.13792585059291795
+GO_BP: actin filament organization (GO:0007015),10,0.04022900460074612,8,0.1392992919050826
+GO_BP: phosphorylation (GO:0016310),21,0.04029960909998204,18,0.1392992919050826
+GO_BP: positive regulation of JNK cascade (GO:0046330),6,0.04164515973314562,6,0.14257498953226608
+Hallmark: HALLMARK_CHOLESTEROL_HOMEOSTASIS,6,0.04164515973314562,6,0.14257498953226608
+GO_BP: positive regulation of synaptic transmission (GO:0050806),6,0.04164515973314562,5,0.14257498953226608
+GO_BP: positive regulation of programmed cell death (GO:0043068),16,0.04198706764914253,14,0.14289488135614803
+GO_BP: phosphatidylinositol metabolic process (GO:0046488),8,0.04200444884515607,8,0.14289488135614803
+GO_BP: spliceosomal snRNP assembly (GO:0000387),4,0.0423127167536553,4,0.14348873351628116
+GO_BP: proteolysis (GO:0006508),16,0.04311088398728807,12,0.14348873351628116
+GO_BP: positive regulation of kinase activity (GO:0033674),8,0.04389119546912783,8,0.14348873351628116
+GO_BP: positive regulation of protein metabolic process (GO:0051247),8,0.04389119546912783,8,0.14348873351628116
+GO_BP: NIK-NF-kappaB signaling (GO:0038061),6,0.04404458245220184,5,0.14348873351628116
+GO_BP: regulation of stress fiber assembly (GO:0051492),6,0.04404458245220184,5,0.14348873351628116
+"GO_BP: DNA damage response, signal transduction by p53 class mediator (GO:0030330)",6,0.04404458245220184,6,0.14348873351628116
+GO_BP: regulation of cytokine-mediated signaling pathway (GO:0001959),6,0.04404458245220184,6,0.14348873351628116
+GO_BP: positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: regulation of telomere capping (GO:1904353),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: diacylglycerol metabolic process (GO:0046339),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: regulation of steroid metabolic process (GO:0019218),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: ERK1 and ERK2 cascade (GO:0070371),3,0.0444481379171364,2,0.14348873351628116
+GO_BP: regulation of cysteine-type endopeptidase activity (GO:2000116),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: positive regulation of transcription initiation from RNA polymerase II promoter (GO:0060261),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: regulation of calcium ion transmembrane transport (GO:1903169),3,0.0444481379171364,3,0.14348873351628116
+GO_BP: positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511),3,0.0444481379171364,3,0.14348873351628116
+"GO_BP: transcription, DNA-templated (GO:0006351)",13,0.04486346042215608,11,0.14439487739021256
+GO_BP: peptidyl-tyrosine modification (GO:0018212),5,0.04499747341927555,5,0.14439487739021256
+GO_BP: interleukin-1-mediated signaling pathway (GO:0070498),7,0.04578553380088971,6,0.14512206074163503
+"GO_BP: nucleotide-excision repair, DNA incision (GO:0033683)",4,0.045899070374098516,4,0.14512206074163503
+GO_BP: regulation of receptor-mediated endocytosis (GO:0048259),4,0.045899070374098516,3,0.14512206074163503
+GO_BP: positive regulation of intracellular transport (GO:0032388),4,0.045899070374098516,4,0.14512206074163503
+GO_BP: phospholipid dephosphorylation (GO:0046839),4,0.045899070374098516,4,0.14512206074163503
+KEGG: KEGG_B_CELL_RECEPTOR_SIGNALING_PATHWAY,6,0.04652875075306983,6,0.14668154562917907
+GO_BP: regulation of protein-containing complex assembly (GO:0043254),8,0.047830188002287326,8,0.15034342720017216
+GO_BP: organic substance transport (GO:0071702),9,0.04851555893429952,8,0.15162852056338288
+GO_BP: cell morphogenesis involved in neuron differentiation (GO:0048667),6,0.0490981692629118,6,0.15162852056338288
+KEGG: KEGG_PHOSPHATIDYLINOSITOL_SIGNALING_SYSTEM,6,0.0490981692629118,5,0.15162852056338288
+GO_BP: positive regulation of growth (GO:0045927),6,0.0490981692629118,6,0.15162852056338288
+KEGG: KEGG_DORSO_VENTRAL_AXIS_FORMATION,3,0.04952539763186755,3,0.15162852056338288
+GO_BP: lipid translocation (GO:0034204),3,0.04952539763186755,3,0.15162852056338288
+GO_BP: protein K48-linked deubiquitination (GO:0071108),3,0.04952539763186755,2,0.15162852056338288
+GO_BP: negative regulation of ERBB signaling pathway (GO:1901185),4,0.04964952487284723,4,0.15162852056338288
+GO_BP: negative regulation of I-kappaB kinase-NF-kappaB signaling (GO:0043124),4,0.04964952487284723,4,0.15162852056338288
+GO_BP: positive regulation of double-strand break repair (GO:2000781),4,0.04964952487284723,4,0.15162852056338288
+GO_BP: positive regulation of mitochondrion organization (GO:0010822),5,0.051059689941409706,5,0.15461737094933925
+GO_BP: negative regulation of neuron projection development (GO:0010977),5,0.051059689941409706,5,0.15461737094933925
+GO_BP: regulation of phagocytosis (GO:0050764),5,0.051059689941409706,3,0.15461737094933925
+GO_BP: negative regulation of protein serine-threonine kinase activity (GO:0071901),6,0.05175326197436549,5,0.15612315286373724
+GO_BP: regulation of cellular response to stress (GO:0080135),8,0.05199264067462133,7,0.15612315286373724
+GO_BP: negative regulation of response to external stimulus (GO:0032102),8,0.05199264067462133,7,0.15612315286373724
+GO_BP: positive regulation of TOR signaling (GO:0032008),4,0.05356342593723048,4,0.15942521890188166
+GO_BP: regulation of protein binding (GO:0043393),8,0.05415859315048128,8,0.15942521890188166
+GO_BP: response to reactive oxygen species (GO:0000302),5,0.054261365714375745,5,0.15942521890188166
+GO_BP: enzyme linked receptor protein signaling pathway (GO:0007167),9,0.0543241356958911,8,0.15942521890188166
+GO_BP: negative regulation of sequestering of calcium ion (GO:0051283),3,0.05487193580808951,3,0.15942521890188166
+GO_BP: receptor catabolic process (GO:0032801),3,0.05487193580808951,3,0.15942521890188166
+GO_BP: regulation of cholesterol transport (GO:0032374),3,0.05487193580808951,2,0.15942521890188166
+GO_BP: regulation of mitochondrial fission (GO:0090140),3,0.05487193580808951,3,0.15942521890188166
+"GO_BP: RNA splicing, via transesterification reactions (GO:0000375)",3,0.05487193580808951,3,0.15942521890188166
+GO_BP: positive regulation of ERBB signaling pathway (GO:1901186),3,0.05487193580808951,3,0.15942521890188166
+GO_BP: positive regulation of peptidyl-threonine phosphorylation (GO:0010800),3,0.05487193580808951,3,0.15942521890188166
+GO_BP: 3'-phosphoadenosine 5'-phosphosulfate metabolic process (GO:0050427),3,0.05487193580808951,3,0.15942521890188166
+GO_BP: regulation of canonical Wnt signaling pathway (GO:0060828),14,0.05702836473505984,13,0.1631355084857229
+GO_BP: protein modification by small protein removal (GO:0070646),15,0.05711792855484888,12,0.1631355084857229
+GO_BP: axon development (GO:0061564),6,0.05732176295065259,6,0.1631355084857229
+GO_BP: negative regulation of cellular component organization (GO:0051129),6,0.05732176295065259,6,0.1631355084857229
+GO_BP: negative regulation of NF-kappaB transcription factor activity (GO:0032088),6,0.05732176295065259,5,0.1631355084857229
+GO_BP: cellular protein catabolic process (GO:0044257),5,0.05757682947770847,4,0.1631355084857229
+GO_BP: translesion synthesis (GO:0019985),4,0.05763982570932204,4,0.1631355084857229
+GO_BP: regulation of double-strand break repair (GO:2000779),4,0.05763982570932204,4,0.1631355084857229
+GO_BP: nucleic acid-templated transcription (GO:0097659),4,0.05763982570932204,4,0.1631355084857229
+GO_BP: cellular response to oxygen-containing compound (GO:1901701),17,0.05781825928656784,16,0.1631355084857229
+GO_BP: negative regulation of gene expression (GO:0010629),17,0.05781825928656784,14,0.1631355084857229
+GO_BP: regulation of protein localization to plasma membrane (GO:1903076),6,0.06023561678621651,6,0.16887725622339314
+GO_BP: clathrin-dependent endocytosis (GO:0072583),3,0.060481621996284984,3,0.16887725622339314
+GO_BP: positive regulation of G1-S transition of mitotic cell cycle (GO:1900087),3,0.060481621996284984,3,0.16887725622339314
+GO_BP: global genome nucleotide-excision repair (GO:0070911),3,0.060481621996284984,3,0.16887725622339314
+GO_BP: negative regulation of response to stimulus (GO:0048585),5,0.06100596075981012,4,0.16946100211058368
+GO_BP: response to light stimulus (GO:0009416),5,0.06100596075981012,4,0.16946100211058368
+GO_BP: cellular response to retinoic acid (GO:0071300),4,0.061877495447005014,3,0.17143893712765565
+GO_BP: receptor-mediated endocytosis (GO:0006898),9,0.06274684386662474,9,0.17315234555936054
+GO_BP: regulation of protein catabolic process (GO:0042176),7,0.06281806024944243,7,0.17315234555936054
+"GO_BP: regulation of gene expression, epigenetic (GO:0040029)",6,0.06323603670942926,6,0.17334986582591638
+GO_BP: positive regulation of cytoskeleton organization (GO:0051495),6,0.06323603670942926,6,0.17334986582591638
+GO_BP: regulation of neuron projection development (GO:0010975),10,0.06337348583217223,9,0.17334986582591638
+GO_BP: amyloid fibril formation (GO:1990000),5,0.06454850011641339,5,0.17396062954605898
+GO_BP: cellular response to DNA damage stimulus (GO:0006974),18,0.06519392810944785,16,0.17396062954605898
+GO_BP: positive regulation of cell growth (GO:0030307),7,0.06552771099568751,7,0.17396062954605898
+GO_BP: phosphate-containing compound metabolic process (GO:0006796),12,0.06617093103880381,10,0.17396062954605898
+GO_BP: negative regulation of inflammatory response (GO:0050728),12,0.06617093103880381,12,0.17396062954605898
+GO_BP: cardiac ventricle morphogenesis (GO:0003208),4,0.06627493841793661,4,0.17396062954605898
+KEGG: KEGG_VASOPRESSIN_REGULATED_WATER_REABSORPTION,4,0.06627493841793661,4,0.17396062954605898
+GO_BP: positive regulation of biosynthetic process (GO:0009891),4,0.06627493841793661,4,0.17396062954605898
+KEGG: KEGG_ABC_TRANSPORTERS,4,0.06627493841793661,3,0.17396062954605898
+GO_BP: negative regulation of epidermal growth factor receptor signaling pathway (GO:0042059),4,0.06627493841793661,4,0.17396062954605898
+KEGG: KEGG_NUCLEOTIDE_EXCISION_REPAIR,4,0.06627493841793661,4,0.17396062954605898
+GO_BP: regulation of interleukin-1 beta production (GO:0032651),6,0.06632304652043963,5,0.17396062954605898
+GO_BP: ephrin receptor signaling pathway (GO:0048013),6,0.06632304652043963,6,0.17396062954605898
+GO_BP: release of sequestered calcium ion into cytosol (GO:0051209),3,0.06634777498965971,3,0.17396062954605898
+GO_BP: positive regulation of mitotic cell cycle (GO:0045931),3,0.06634777498965971,3,0.17396062954605898
+GO_BP: positive regulation of cellular component movement (GO:0051272),3,0.06634777498965971,3,0.17396062954605898
+GO_BP: modulation of excitatory postsynaptic potential (GO:0098815),3,0.06634777498965971,3,0.17396062954605898
+GO_BP: positive regulation of GTPase activity (GO:0043547),12,0.06804343375577838,11,0.1762232292010373
+GO_BP: negative regulation of cell population proliferation (GO:0008285),19,0.06812380230321516,15,0.1762232292010373
+GO_BP: cellular response to reactive oxygen species (GO:0034614),5,0.06820405207568371,5,0.1762232292010373
+GO_BP: organonitrogen compound catabolic process (GO:1901565),5,0.06820405207568371,5,0.1762232292010373
+GO_BP: negative regulation of endopeptidase activity (GO:0010951),5,0.06820405207568371,4,0.1762232292010373
+GO_BP: cellular response to oxidative stress (GO:0034599),8,0.06835822007147214,8,0.1762232292010373
+GO_BP: phosphatidylinositol biosynthetic process (GO:0006661),8,0.06835822007147214,8,0.1762232292010373
+GO_BP: protein localization to membrane (GO:0072657),11,0.06913660720941503,10,0.17780347547875874
+GO_BP: positive regulation of chemotaxis (GO:0050921),4,0.07083040295298003,4,0.17938825705039213
+GO_BP: positive regulation of response to biotic stimulus (GO:0002833),4,0.07083040295298003,4,0.17938825705039213
+Hallmark: HALLMARK_PEROXISOME,7,0.07115600207416681,7,0.17938825705039213
+GO_BP: positive regulation of transferase activity (GO:0051347),9,0.0719575210256928,9,0.17938825705039213
+GO_BP: regulation of cilium assembly (GO:1902017),5,0.07197208830234318,4,0.17938825705039213
+GO_BP: regulation of cellular ketone metabolic process (GO:0010565),5,0.07197208830234318,4,0.17938825705039213
+GO_BP: regulation of cellular catabolic process (GO:0031329),5,0.07197208830234318,5,0.17938825705039213
+GO_BP: protein localization to Golgi apparatus (GO:0034067),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: protein localization to lysosome (GO:0061462),3,0.07246323095059777,2,0.17938825705039213
+KEGG: KEGG_HOMOLOGOUS_RECOMBINATION,3,0.07246323095059777,3,0.17938825705039213
+GO_BP: regulation of muscle contraction (GO:0006937),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: carbohydrate derivative biosynthetic process (GO:1901137),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: regulation of postsynapse organization (GO:0099175),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: internal peptidyl-lysine acetylation (GO:0018393),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: histone mRNA metabolic process (GO:0008334),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: glycerophospholipid catabolic process (GO:0046475),3,0.07246323095059777,3,0.17938825705039213
+GO_BP: anaphase-promoting complex-dependent catabolic process (GO:0031145),6,0.07275653960369392,5,0.17938825705039213
+GO_BP: negative regulation of defense response (GO:0031348),6,0.07275653960369392,6,0.17938825705039213
+GO_BP: plasma membrane bounded cell projection organization (GO:0120036),8,0.07355462742821825,7,0.18055525409880324
+GO_BP: transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),20,0.0735657686467682,16,0.18055525409880324
+GO_BP: regulation of JNK cascade (GO:0046328),7,0.07407470224171703,7,0.18097796570419503
+GO_BP: protein processing (GO:0016485),7,0.07407470224171703,7,0.18097796570419503
+GO_BP: positive regulation of apoptotic process (GO:0043065),16,0.0751642794201199,14,0.18099642217270695
+GO_BP: positive regulation of macromolecule metabolic process (GO:0010604),19,0.07534737272650087,16,0.18099642217270695
+GO_BP: regulation of programmed cell death (GO:0043067),11,0.07539495418277653,9,0.18099642217270695
+GO_BP: positive regulation of cytokine production (GO:0001819),17,0.07547145701241915,14,0.18099642217270695
+GO_BP: postreplication repair (GO:0006301),4,0.07554189559246843,4,0.18099642217270695
+GO_BP: vesicle organization (GO:0016050),4,0.07554189559246843,3,0.18099642217270695
+GO_BP: positive regulation of organelle assembly (GO:1902117),4,0.07554189559246843,3,0.18099642217270695
+GO_BP: mitotic G1 DNA damage checkpoint signaling (GO:0031571),5,0.07585195096061914,5,0.18099642217270695
+GO_BP: chemical homeostasis (GO:0048878),5,0.07585195096061914,5,0.18099642217270695
+GO_BP: positive regulation of cell death (GO:0010942),5,0.07585195096061914,5,0.18099642217270695
+GO_BP: regulation of neuron death (GO:1901214),6,0.07610268169494283,6,0.18099642217270695
+GO_BP: positive regulation of protein catabolic process (GO:0045732),6,0.07610268169494283,6,0.18099642217270695
+GO_BP: positive regulation of protein serine-threonine kinase activity (GO:0071902),7,0.0770630631959814,7,0.1828759225953201
+GO_BP: regulation of cell migration (GO:0030334),20,0.07792120566482093,18,0.18450505746626103
+GO_BP: negative regulation of interferon-gamma production (GO:0032689),3,0.07882040670274124,3,0.18581565176633077
+GO_BP: homologous chromosome pairing at meiosis (GO:0007129),3,0.07882040670274124,2,0.18581565176633077
+GO_BP: positive regulation of proteasomal protein catabolic process (GO:1901800),6,0.07953473332931936,6,0.18658928364287058
+GO_BP: positive regulation of endothelial cell migration (GO:0010595),6,0.07953473332931936,5,0.18658928364287058
+GO_BP: cellular component disassembly (GO:0022411),5,0.07984285625648416,5,0.18658928364287058
+GO_BP: extracellular matrix disassembly (GO:0022617),5,0.07984285625648416,5,0.18658928364287058
+GO_BP: negative regulation of MAP kinase activity (GO:0043407),4,0.08040719426499227,3,0.18709466198023092
+GO_BP: positive regulation of neuron death (GO:1901216),4,0.08040719426499227,4,0.18709466198023092
+KEGG: KEGG_ERBB_SIGNALING_PATHWAY,6,0.08305233556538474,6,0.19283209661509418
+GO_BP: DNA replication (GO:0006260),7,0.08324834724751155,7,0.19287063209283387
+GO_BP: cellular macromolecule biosynthetic process (GO:0034645),16,0.08379280823404536,14,0.19371455667010487
+GO_BP: endomembrane system organization (GO:0010256),11,0.08428030378306375,9,0.1941451396461129
+GO_BP: regulation of cellular senescence (GO:2000772),3,0.08541135846817013,3,0.1941451396461129
+GO_BP: positive regulation of DNA recombination (GO:0045911),3,0.08541135846817013,3,0.1941451396461129
+GO_BP: termination of RNA polymerase I transcription (GO:0006363),3,0.08541135846817013,3,0.1941451396461129
+GO_BP: Golgi to plasma membrane protein transport (GO:0043001),3,0.08541135846817013,3,0.1941451396461129
+GO_BP: regulation of cellular component size (GO:0032535),3,0.08541135846817013,3,0.1941451396461129
+GO_BP: base-excision repair (GO:0006284),4,0.08542386144428968,4,0.1941451396461129
+GO_BP: negative regulation of catabolic process (GO:0009895),4,0.08542386144428968,4,0.1941451396461129
+Hallmark: HALLMARK_ADIPOGENESIS,11,0.0865986444990689,9,0.195986405971577
+Hallmark: HALLMARK_MYOGENESIS,11,0.0865986444990689,11,0.195986405971577
+GO_BP: cellular response to interleukin-1 (GO:0071347),9,0.08726825194315545,8,0.19708691352708427
+GO_BP: cellular response to metal ion (GO:0071248),8,0.08756439214435678,8,0.19734113533581454
+KEGG: KEGG_EPITHELIAL_CELL_SIGNALING_IN_HELICOBACTER_PYLORI_INFECTION,5,0.08815405215187712,5,0.19825440599010022
+KEGG: KEGG_GLYCEROLIPID_METABOLISM,4,0.09058925723529132,4,0.20204035586709163
+KEGG: KEGG_GLUTATHIONE_METABOLISM,4,0.09058925723529132,4,0.20204035586709163
+GO_BP: cellular response to mechanical stimulus (GO:0071260),4,0.09058925723529132,4,0.20204035586709163
+GO_BP: negative regulation of cell projection organization (GO:0031345),4,0.09058925723529132,4,0.20204035586709163
+GO_BP: regulation of I-kappaB kinase-NF-kappaB signaling (GO:0043122),12,0.09092162216944667,11,0.20233657967003296
+GO_BP: regulation of mitotic cell cycle (GO:0007346),10,0.09112935814745741,9,0.20233657967003296
+GO_BP: positive regulation of immune effector process (GO:0002699),3,0.09222783631471271,2,0.20233657967003296
+GO_BP: phospholipid translocation (GO:0045332),3,0.09222783631471271,3,0.20233657967003296
+GO_BP: regulation of dendritic spine morphogenesis (GO:0061001),3,0.09222783631471271,3,0.20233657967003296
+GO_BP: regulation of developmental growth (GO:0048638),3,0.09222783631471271,3,0.20233657967003296
+GO_BP: regulation of macrophage derived foam cell differentiation (GO:0010743),3,0.09222783631471271,3,0.20233657967003296
+GO_BP: positive regulation of locomotion (GO:0040017),3,0.09222783631471271,3,0.20233657967003296
+GO_BP: regulation of cell adhesion (GO:0030155),8,0.09357467320321682,8,0.20445685710052452
+KEGG: KEGG_SYSTEMIC_LUPUS_ERYTHEMATOSUS,8,0.09357467320321682,2,0.20445685710052452
+GO_BP: cellular amino acid catabolic process (GO:0009063),6,0.09411376742364748,5,0.2052176470191096
+GO_BP: RNA processing (GO:0006396),10,0.09636633975087845,10,0.20970407941739744
+GO_BP: positive regulation of cell-substrate adhesion (GO:0010811),5,0.09689703059035928,5,0.21043294522148734
+GO_BP: organonitrogen compound biosynthetic process (GO:1901566),9,0.09847322186274705,9,0.21342482560978446
+GO_BP: negative regulation of cytokine production (GO:0001818),10,0.09905020488412197,10,0.21396279465718915
+GO_BP: regulation of chemotaxis (GO:0050920),3,0.09926133456467158,3,0.21396279465718915
+GO_BP: protein localization to cell periphery (GO:1990778),8,0.09981543135623208,8,0.21396279465718915
+GO_BP: extracellular matrix organization (GO:0030198),15,0.10131510987539744,12,0.21396279465718915
+GO_BP: proteasomal protein catabolic process (GO:0010498),11,0.10132448028529425,9,0.21396279465718915
+GO_BP: regulation of inflammatory response (GO:0050727),11,0.10132448028529425,9,0.21396279465718915
+GO_BP: regulation of interleukin-12 production (GO:0032655),4,0.10135474090222668,3,0.21396279465718915
+GO_BP: regulation of substrate adhesion-dependent cell spreading (GO:1900024),4,0.10135474090222668,4,0.21396279465718915
+KEGG: KEGG_TASTE_TRANSDUCTION,4,0.10135474090222668,1,0.21396279465718915
+GO_BP: intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630),4,0.10135474090222668,4,0.21396279465718915
+GO_BP: negative regulation of transport (GO:0051051),4,0.10135474090222668,2,0.21396279465718915
+GO_BP: positive regulation of NIK-NF-kappaB signaling (GO:1901224),4,0.10135474090222668,4,0.21396279465718915
+GO_BP: protein tetramerization (GO:0051262),5,0.10142725029559295,5,0.21396279465718915
+GO_BP: negative regulation of cell death (GO:0060548),6,0.10190600080416823,6,0.21396279465718915
+GO_BP: negative regulation of mitotic cell cycle phase transition (GO:1901991),6,0.10190600080416823,5,0.21396279465718915
+GO_BP: regulation of peptidyl-tyrosine phosphorylation (GO:0050730),6,0.10190600080416823,6,0.21396279465718915
+GO_BP: cellular response to lectin (GO:1990858),7,0.10345652180509352,6,0.21637307575968004
+GO_BP: stimulatory C-type lectin receptor signaling pathway (GO:0002223),7,0.10345652180509352,6,0.21637307575968004
+GO_BP: regulation of protein kinase B signaling (GO:0051896),11,0.10391446651318657,11,0.2169088378673312
+GO_BP: regulation of actin filament polymerization (GO:0030833),5,0.10606138110169458,5,0.2185737681806618
+GO_BP: antigen processing and presentation of peptide antigen via MHC class I (GO:0002474),3,0.10650313840316325,2,0.2185737681806618
+GO_BP: regulation of protein localization to cell surface (GO:2000008),3,0.10650313840316325,3,0.2185737681806618
+GO_BP: regulation of neurotransmitter secretion (GO:0046928),3,0.10650313840316325,3,0.2185737681806618
+GO_BP: apoptotic cell clearance (GO:0043277),3,0.10650313840316325,3,0.2185737681806618
+GO_BP: positive regulation of cytokine production involved in immune response (GO:0002720),3,0.10650313840316325,3,0.2185737681806618
+GO_BP: signal transduction by p53 class mediator (GO:0072331),3,0.10650313840316325,3,0.2185737681806618
+GO_BP: positive regulation of protein localization to cell periphery (GO:1904377),4,0.10694865308188661,4,0.2185737681806618
+GO_BP: positive regulation of protein localization to plasma membrane (GO:1903078),4,0.10694865308188661,4,0.2185737681806618
+GO_BP: plasma membrane bounded cell projection morphogenesis (GO:0120039),4,0.10694865308188661,4,0.2185737681806618
+GO_BP: positive regulation of macroautophagy (GO:0016239),4,0.10694865308188661,3,0.2185737681806618
+Hallmark: HALLMARK_APOPTOSIS,9,0.10739677272321535,9,0.21907311323995543
+Hallmark: HALLMARK_COAGULATION,8,0.1096044722085938,7,0.22293908734047577
+GO_BP: MAPK cascade (GO:0000165),15,0.10992983083000434,11,0.22293908734047577
+GO_BP: positive regulation of epithelial cell migration (GO:0010634),6,0.11002581600851924,6,0.22293908734047577
+GO_BP: ubiquitin-dependent protein catabolic process (GO:0006511),17,0.11012153988631873,15,0.22293908734047577
+GO_BP: transcription-coupled nucleotide-excision repair (GO:0006283),5,0.1107978679670291,5,0.22346661925807934
+GO_BP: regulation of hydrolase activity (GO:0051336),5,0.1107978679670291,5,0.22346661925807934
+GO_BP: positive regulation of phagocytosis (GO:0050766),4,0.11267896751898861,3,0.2262085329834382
+GO_BP: histone lysine methylation (GO:0034968),3,0.11394436691181581,2,0.2262085329834382
+GO_BP: negative regulation of fat cell differentiation (GO:0045599),3,0.11394436691181581,3,0.2262085329834382
+GO_BP: regulation of TORC1 signaling (GO:1903432),3,0.11394436691181581,3,0.2262085329834382
+GO_BP: phosphatidylinositol 3-kinase signaling (GO:0014065),3,0.11394436691181581,3,0.2262085329834382
+GO_BP: cell-substrate junction assembly (GO:0007044),3,0.11394436691181581,3,0.2262085329834382
+GO_BP: negative regulation of blood vessel endothelial cell migration (GO:0043537),3,0.11394436691181581,3,0.2262085329834382
+KEGG: KEGG_CYSTEINE_AND_METHIONINE_METABOLISM,3,0.11394436691181581,3,0.2262085329834382
+GO_BP: regulation of cell cycle phase transition (GO:1901987),6,0.11420642995692723,5,0.2262085329834382
+GO_BP: innate immune response activating cell surface receptor signaling pathway (GO:0002220),7,0.11447203901673524,6,0.2262085329834382
+GO_BP: cellular response to interferon-gamma (GO:0071346),7,0.11447203901673524,1,0.2262085329834382
+GO_BP: positive regulation of T cell activation (GO:0050870),5,0.11563506256955267,5,0.22808750873810846
+GO_BP: neuron projection morphogenesis (GO:0048812),8,0.11641211156189381,8,0.22919967019969933
+GO_BP: negative regulation of neuron death (GO:1901215),6,0.11846625271167963,6,0.2312756628487864
+GO_BP: inorganic anion transport (GO:0015698),4,0.11854222346947098,4,0.2312756628487864
+GO_BP: negative regulation of viral genome replication (GO:0045071),4,0.11854222346947098,4,0.2312756628487864
+GO_BP: striated muscle contraction (GO:0006941),4,0.11854222346947098,4,0.2312756628487864
+GO_BP: regulation of proteasomal protein catabolic process (GO:0061136),4,0.11854222346947098,4,0.2312756628487864
+GO_BP: regulation of GTPase activity (GO:0043087),10,0.11904707872603656,10,0.23183987251900237
+GO_BP: protein localization to organelle (GO:0033365),8,0.11989928969300646,8,0.23280968173828076
+GO_BP: negative regulation of canonical Wnt signaling pathway (GO:0090090),9,0.11997819877489074,8,0.23280968173828076
+GO_BP: regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418),5,0.12057122769930147,4,0.23296651282950523
+GO_BP: positive regulation of lipid biosynthetic process (GO:0046889),3,0.12157601274172318,2,0.23296651282950523
+"GO_BP: base-excision repair, gap-filling (GO:0006287)",3,0.12157601274172318,3,0.23296651282950523
+GO_BP: blood vessel diameter maintenance (GO:0097746),3,0.12157601274172318,3,0.23296651282950523
+GO_BP: positive regulation of T cell mediated immunity (GO:0002711),3,0.12157601274172318,2,0.23296651282950523
+GO_BP: cellular response to amyloid-beta (GO:1904646),3,0.12157601274172318,3,0.23296651282950523
+KEGG: KEGG_PRIMARY_IMMUNODEFICIENCY,3,0.12157601274172318,2,0.23296651282950523
+GO_BP: negative regulation of cell differentiation (GO:0045596),10,0.12207466265061144,10,0.23350580489218378
+GO_BP: regulation of neuron apoptotic process (GO:0043523),6,0.12280426446511661,6,0.23448416394316224
+GO_BP: positive regulation of protein modification process (GO:0031401),11,0.1231188124119431,11,0.23466794918943054
+GO_BP: glycoprotein metabolic process (GO:0009100),4,0.12453483270387954,4,0.2356953259800537
+GO_BP: telomere maintenance (GO:0000723),4,0.12453483270387954,4,0.2356953259800537
+GO_BP: triglyceride metabolic process (GO:0006641),4,0.12453483270387954,3,0.2356953259800537
+GO_BP: interstrand cross-link repair (GO:0036297),4,0.12453483270387954,4,0.2356953259800537
+GO_BP: actomyosin structure organization (GO:0031032),5,0.12560454167369503,5,0.23730207785452048
+GO_BP: cytoskeleton organization (GO:0007010),7,0.1260765138182085,6,0.2377758813238143
+GO_BP: regulation of MAPK cascade (GO:0043408),9,0.126557011865427,8,0.23826407662930651
+GO_BP: negative regulation of DNA-binding transcription factor activity (GO:0043433),8,0.12703818866220412,7,0.2387518405801913
+GO_BP: negative regulation of Wnt signaling pathway (GO:0030178),10,0.12825589128217363,9,0.23899167014672523
+GO_BP: dendrite morphogenesis (GO:0048813),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: positive regulation of substrate adhesion-dependent cell spreading (GO:1900026),3,0.12938897862827356,3,0.23899167014672523
+KEGG: KEGG_DNA_REPLICATION,3,0.12938897862827356,3,0.23899167014672523
+GO_BP: regulation of microtubule-based process (GO:0032886),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: positive regulation of cytokine-mediated signaling pathway (GO:0001961),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: positive regulation of myeloid leukocyte differentiation (GO:0002763),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: positive regulation of telomere maintenance via telomere lengthening (GO:1904358),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: telomere maintenance via telomere lengthening (GO:0010833),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: establishment of protein localization to plasma membrane (GO:0061951),3,0.12938897862827356,3,0.23899167014672523
+GO_BP: positive regulation of proteolysis (GO:0045862),4,0.13065309111038748,4,0.23901034944085173
+"GO_BP: DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)",4,0.13065309111038748,4,0.23901034944085173
+KEGG: KEGG_HEDGEHOG_SIGNALING_PATHWAY,4,0.13065309111038748,3,0.23901034944085173
+KEGG: KEGG_GLYCEROPHOSPHOLIPID_METABOLISM,5,0.13073310276392633,5,0.23901034944085173
+GO_BP: phosphatidylcholine metabolic process (GO:0046470),5,0.13073310276392633,5,0.23901034944085173
+GO_BP: import into nucleus (GO:0051170),5,0.13073310276392633,4,0.23901034944085173
+GO_BP: regulation of mRNA catabolic process (GO:0061013),7,0.1341311783948017,6,0.24480648009238
+GO_BP: negative regulation of apoptotic signaling pathway (GO:2001234),5,0.13595493362138453,5,0.24771449769998027
+GO_BP: regulation of transport (GO:0051049),3,0.13737411093975374,3,0.2494546778044515
+GO_BP: glutamate receptor signaling pathway (GO:0007215),3,0.13737411093975374,3,0.2494546778044515
+GO_BP: cellular response to lipid (GO:0071396),11,0.1379677406795004,10,0.25011015384563734
+GO_BP: mitotic sister chromatid segregation (GO:0000070),6,0.1409158779188366,6,0.2541687395348144
+KEGG: KEGG_GNRH_SIGNALING_PATHWAY,6,0.1409158779188366,6,0.2541687395348144
+KEGG: KEGG_MELANOGENESIS,6,0.1409158779188366,5,0.2541687395348144
+KEGG: KEGG_FC_EPSILON_RI_SIGNALING_PATHWAY,5,0.14126798569373117,5,0.25437702616542884
+Hallmark: HALLMARK_INTERFERON_GAMMA_RESPONSE,10,0.14443149605371014,6,0.2595335587040743
+GO_BP: connective tissue development (GO:0061448),3,0.1455222304414193,3,0.2595335587040743
+GO_BP: DNA replication initiation (GO:0006270),3,0.1455222304414193,3,0.2595335587040743
+KEGG: KEGG_SNARE_INTERACTIONS_IN_VESICULAR_TRANSPORT,3,0.1455222304414193,2,0.2595335587040743
+GO_BP: intrinsic apoptotic signaling pathway (GO:0097193),6,0.1456276383515334,6,0.2595335587040743
+GO_BP: positive regulation of intracellular protein transport (GO:0090316),8,0.1458216460067543,7,0.2595335587040743
+Hallmark: HALLMARK_DNA_REPAIR,8,0.1458216460067543,7,0.2595335587040743
+GO_BP: positive regulation of cell adhesion (GO:0045785),5,0.14667014362089895,5,0.2601913580014227
+GO_BP: protein targeting (GO:0006605),7,0.14667531437103454,7,0.2601913580014227
+Hallmark: HALLMARK_MTORC1_SIGNALING,10,0.14778798479055824,8,0.2613027691609377
+Hallmark: HALLMARK_ALLOGRAFT_REJECTION,10,0.14778798479055824,6,0.2613027691609377
+GO_BP: transcription by RNA polymerase II (GO:0006366),15,0.1486328515838074,14,0.26236505000425775
+GO_BP: positive regulation of multicellular organismal process (GO:0051240),16,0.15109950563493482,13,0.2659949693528844
+Hallmark: HALLMARK_MITOTIC_SPINDLE,10,0.1511841174647557,9,0.2659949693528844
+GO_BP: positive regulation of cellular amide metabolic process (GO:0034250),5,0.15215922960191663,5,0.2671421203240008
+GO_BP: DNA recombination (GO:0006310),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: regulation of cellular component biogenesis (GO:0044087),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: negative regulation of protein kinase B signaling (GO:0051898),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: regulation of T cell differentiation (GO:0045580),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: vesicle cytoskeletal trafficking (GO:0099518),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: regulation of viral entry into host cell (GO:0046596),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: negative regulation of protein secretion (GO:0050709),3,0.1538241604470293,3,0.2671421203240008
+GO_BP: regulation of neurogenesis (GO:0050767),4,0.15630510176389012,4,0.27014145401315415
+GO_BP: homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156),4,0.15630510176389012,2,0.27014145401315415
+GO_BP: Notch signaling pathway (GO:0007219),4,0.15630510176389012,4,0.27014145401315415
+GO_BP: regulation of cyclin-dependent protein serine-threonine kinase activity (GO:0000079),5,0.15773300772409032,5,0.2717355501657005
+GO_BP: regulation of defense response (GO:0031347),5,0.15773300772409032,5,0.2717355501657005
+GO_BP: bone development (GO:0060348),3,0.1622707525206117,3,0.2788123182175911
+GO_BP: mRNA processing (GO:0006397),14,0.16235954530624377,13,0.2788123182175911
+GO_BP: regulation of endocytosis (GO:0030100),4,0.16299276078172023,4,0.27900830866297655
+GO_BP: I-kappaB kinase-NF-kappaB signaling (GO:0007249),4,0.16299276078172023,3,0.27900830866297655
+GO_BP: protein localization to nucleus (GO:0034504),6,0.16517035302539887,5,0.28228637440747817
+GO_BP: response to insulin (GO:0032868),5,0.16912543183166087,5,0.28858704637942134
+KEGG: KEGG_NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,4,0.16978202013794833,3,0.2887843995654745
+GO_BP: negative regulation of immune response (GO:0050777),9,0.1698722635744974,9,0.2887843995654745
+GO_BP: endosome organization (GO:0007032),3,0.1708529098824575,2,0.2887843995654745
+GO_BP: negative regulation of protein catabolic process (GO:0042177),3,0.1708529098824575,3,0.2887843995654745
+GO_BP: heart contraction (GO:0060047),3,0.1708529098824575,3,0.2887843995654745
+GO_BP: T cell differentiation (GO:0030217),3,0.1708529098824575,3,0.2887843995654745
+GO_BP: DNA metabolic process (GO:0006259),13,0.1713705790839159,13,0.28920466642890047
+"GO_BP: retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)",5,0.17493935371520566,5,0.29476458502170233
+GO_BP: regulation of autophagy (GO:0010506),11,0.17726035812628438,11,0.29742485256530354
+GO_BP: gene expression (GO:0010467),16,0.17774880366348847,15,0.29742485256530354
+GO_BP: regulation of signal transduction by p53 class mediator (GO:1901796),8,0.17849797674482148,8,0.29742485256530354
+GO_BP: peptidyl-serine phosphorylation (GO:0018105),8,0.17849797674482148,7,0.29742485256530354
+GO_BP: positive regulation of ATPase activity (GO:0032781),3,0.1795616086650065,3,0.29742485256530354
+GO_BP: regulation of DNA recombination (GO:0000018),3,0.1795616086650065,3,0.29742485256530354
+GO_BP: regulation of extrinsic apoptotic signaling pathway via death domain receptors (GO:1902041),3,0.1795616086650065,3,0.29742485256530354
+KEGG: KEGG_BLADDER_CANCER,3,0.1795616086650065,3,0.29742485256530354
+GO_BP: substantia nigra development (GO:0021762),3,0.1795616086650065,3,0.29742485256530354
+GO_BP: regulation of ubiquitin-dependent protein catabolic process (GO:2000058),3,0.1795616086650065,2,0.29742485256530354
+GO_BP: negative regulation of type I interferon production (GO:0032480),3,0.1795616086650065,3,0.29742485256530354
+GO_BP: regulation of RNA metabolic process (GO:0051252),4,0.1836484336230171,4,0.30372625560729755
+GO_BP: positive regulation of neuron projection development (GO:0010976),5,0.18679049075503382,5,0.3079751189596033
+GO_BP: regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618),5,0.18679049075503382,4,0.3079751189596033
+GO_BP: positive regulation of T cell proliferation (GO:0042102),4,0.1907170554369446,4,0.31373371711617876
+GO_BP: regulation of Wnt signaling pathway (GO:0030111),6,0.19105385747457487,6,0.31373371711617876
+GO_BP: cellular component assembly (GO:0022607),12,0.19115868345218331,11,0.31373371711617876
+"GO_BP: retrograde transport, endosome to Golgi (GO:0042147)",5,0.19282274584225728,5,0.3159823960067478
+GO_BP: positive regulation of protein kinase B signaling (GO:0051897),8,0.19594807630715266,8,0.31916712603485503
+GO_BP: positive regulation of receptor-mediated endocytosis (GO:0048260),3,0.1973230131616068,3,0.31916712603485503
+GO_BP: microtubule bundle formation (GO:0001578),3,0.1973230131616068,3,0.31916712603485503
+GO_BP: mRNA stabilization (GO:0048255),3,0.1973230131616068,3,0.31916712603485503
+GO_BP: response to amyloid-beta (GO:1904645),3,0.1973230131616068,3,0.31916712603485503
+Hallmark: HALLMARK_APICAL_SURFACE,3,0.1973230131616068,3,0.31916712603485503
+GO_BP: positive regulation of cell-matrix adhesion (GO:0001954),3,0.1973230131616068,3,0.31916712603485503
+KEGG: KEGG_AMINO_SUGAR_AND_NUCLEOTIDE_SUGAR_METABOLISM,3,0.1973230131616068,3,0.31916712603485503
+GO_BP: regulation of myeloid cell differentiation (GO:0045637),4,0.1978702295776195,4,0.31916712603485503
+GO_BP: endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888),9,0.19794750703395037,8,0.31916712603485503
+GO_BP: SCF-dependent proteasomal ubiquitin-dependent protein catabolic process (GO:0031146),5,0.1989227669240492,4,0.31916712603485503
+KEGG: KEGG_GAP_JUNCTION,5,0.1989227669240492,5,0.31916712603485503
+GO_BP: collagen fibril organization (GO:0030199),5,0.1989227669240492,4,0.31916712603485503
+GO_BP: regulation of endothelial cell migration (GO:0010594),5,0.1989227669240492,5,0.31916712603485503
+GO_BP: histone modification (GO:0016570),6,0.2018196259600454,5,0.3228513361712036
+GO_BP: activation of protein kinase activity (GO:0032147),6,0.2018196259600454,6,0.3228513361712036
+GO_BP: protein complex oligomerization (GO:0051259),5,0.2050880021887788,3,0.3266465496372641
+GO_BP: regulation of actin cytoskeleton organization (GO:0032956),5,0.2050880021887788,4,0.3266465496372641
+GO_BP: positive regulation of catabolic process (GO:0009896),4,0.20510364744665419,4,0.3266465496372641
+GO_BP: positive regulation of smooth muscle cell proliferation (GO:0048661),3,0.20635819960507998,3,0.3276736552074756
+GO_BP: positive regulation of response to stimulus (GO:0048584),3,0.20635819960507998,3,0.3276736552074756
+GO_BP: negative regulation of multicellular organismal process (GO:0051241),10,0.2105608291520003,9,0.3338538220330388
+GO_BP: canonical Wnt signaling pathway (GO:0060070),4,0.21241299715257764,3,0.3362945094830942
+GO_BP: ion transport (GO:0006811),6,0.21280106729028744,6,0.33641345196626327
+GO_BP: negative regulation of apoptotic process (GO:0043066),20,0.21416295448786282,17,0.33806927470551035
+GO_BP: establishment of protein localization to extracellular region (GO:0035592),3,0.21548491848968096,3,0.3385919379772745
+GO_BP: telomere organization (GO:0032200),3,0.21548491848968096,3,0.3385919379772745
+GO_BP: regulation of double-strand break repair via homologous recombination (GO:0010569),3,0.21548491848968096,3,0.3385919379772745
+GO_BP: protein-containing complex assembly (GO:0065003),12,0.21575393257156558,10,0.3385919379772745
+GO_BP: regulation of kinase activity (GO:0043549),5,0.21760380183486147,5,0.3405008543995285
+GO_BP: cellular response to fibroblast growth factor stimulus (GO:0044344),5,0.21760380183486147,4,0.3405008543995285
+GO_BP: positive regulation of angiogenesis (GO:0045766),6,0.21836836430492615,6,0.34105577314009466
+GO_BP: regulation of cell growth (GO:0001558),10,0.21859295599397696,10,0.34105577314009466
+GO_BP: membrane organization (GO:0061024),11,0.2212316521291381,11,0.34467250150554124
+GO_BP: positive regulation of cellular catabolic process (GO:0031331),7,0.22191807206005593,6,0.34474266974647416
+GO_BP: regulation of small GTPase mediated signal transduction (GO:0051056),7,0.22191807206005593,7,0.34474266974647416
+GO_BP: positive regulation of cell projection organization (GO:0031346),6,0.22398438188807163,6,0.34745052024484413
+KEGG: KEGG_NOTCH_SIGNALING_PATHWAY,3,0.22469476332318253,3,0.3480502457815868
+GO_BP: negative regulation of neuron apoptotic process (GO:0043524),4,0.22724226994505023,4,0.3499791406746834
+GO_BP: aerobic electron transport chain (GO:0019646),4,0.22724226994505023,4,0.3499791406746834
+GO_BP: negative regulation of viral process (GO:0048525),4,0.22724226994505023,4,0.3499791406746834
+GO_BP: establishment of protein localization to membrane (GO:0090150),4,0.22724226994505023,4,0.3499791406746834
+GO_BP: cellular protein-containing complex assembly (GO:0034622),8,0.22806328261429848,8,0.3503519790704445
+GO_BP: proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161),14,0.22813617241796388,12,0.3503519790704445
+GO_BP: nitrogen compound transport (GO:0071705),7,0.23217060846532717,6,0.3544383925307077
+"GO_BP: DNA-templated transcription, initiation (GO:0006352)",8,0.23280022624955685,6,0.3544383925307077
+GO_BP: phosphatidic acid biosynthetic process (GO:0006654),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: positive regulation of endocytosis (GO:0045807),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: positive regulation of blood vessel endothelial cell migration (GO:0043536),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: positive regulation of DNA repair (GO:0045739),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: regulation of cellular protein metabolic process (GO:0032268),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: cellular defense response (GO:0006968),3,0.23397949011510863,3,0.3544383925307077
+GO_BP: DNA repair (GO:0006281),13,0.23473977011526517,13,0.3544383925307077
+GO_BP: mitochondrial ATP synthesis coupled electron transport (GO:0042775),4,0.23475361440173384,4,0.3544383925307077
+GO_BP: nucleic acid metabolic process (GO:0090304),4,0.23475361440173384,3,0.3544383925307077
+GO_BP: histone acetylation (GO:0016573),4,0.23475361440173384,4,0.3544383925307077
+GO_BP: positive regulation of DNA-binding transcription factor activity (GO:0051091),11,0.23679886895898994,10,0.3565292306225768
+Hallmark: HALLMARK_INTERFERON_ALPHA_RESPONSE,5,0.23680174015304173,3,0.3565292306225768
+GO_BP: peptidyl-serine modification (GO:0018209),8,0.23757152244326804,7,0.3571879533237946
+GO_BP: cytoskeleton-dependent cytokinesis (GO:0061640),4,0.24232374577232466,4,0.3623003518977941
+GO_BP: negative regulation of supramolecular fiber organization (GO:1902904),4,0.24232374577232466,4,0.3623003518977941
+GO_BP: neuron projection development (GO:0031175),8,0.24237617295983963,8,0.3623003518977941
+Hallmark: HALLMARK_PROTEIN_SECRETION,5,0.24330369001245736,5,0.3623003518977941
+GO_BP: receptor internalization (GO:0031623),3,0.24333102704205334,3,0.3623003518977941
+GO_BP: adherens junction organization (GO:0034332),3,0.24333102704205334,2,0.3623003518977941
+GO_BP: ribosome assembly (GO:0042255),3,0.24333102704205334,3,0.3623003518977941
+GO_BP: protein homooligomerization (GO:0051260),6,0.24690012795327893,4,0.36710599937728194
+GO_BP: double-strand break repair via homologous recombination (GO:0000724),5,0.24985257183568232,5,0.37010270925110667
+KEGG: KEGG_ADHERENS_JUNCTION,4,0.24994843434074737,4,0.37010270925110667
+GO_BP: regulation of actin filament-based process (GO:0032970),4,0.24994843434074737,3,0.37010270925110667
+GO_BP: positive regulation of cell morphogenesis involved in differentiation (GO:0010770),3,0.2527414828737512,3,0.372698345801485
+GO_BP: positive regulation of ion transport (GO:0043270),3,0.2527414828737512,3,0.372698345801485
+GO_BP: phosphatidic acid metabolic process (GO:0046473),3,0.2527414828737512,3,0.372698345801485
+GO_BP: positive regulation of hydrolase activity (GO:0051345),7,0.2531313733135301,6,0.37276195385211625
+GO_BP: RNA splicing (GO:0008380),5,0.25644575370078515,5,0.37507372139910755
+GO_BP: regulation of peptidyl-serine phosphorylation (GO:0033135),5,0.25644575370078515,5,0.37507372139910755
+Hallmark: HALLMARK_ANDROGEN_RESPONSE,5,0.25644575370078515,5,0.37507372139910755
+GO_BP: mRNA-containing ribonucleoprotein complex export from nucleus (GO:0071427),5,0.25644575370078515,5,0.37507372139910755
+GO_BP: positive regulation of defense response (GO:0031349),5,0.25644575370078515,5,0.37507372139910755
+GO_BP: cellular response to amino acid starvation (GO:0034198),4,0.25762348415624425,4,0.37526456025469185
+GO_BP: proteolysis involved in cellular protein catabolic process (GO:0051603),4,0.25762348415624425,3,0.37526456025469185
+GO_BP: negative regulation of protein binding (GO:0032091),4,0.25762348415624425,4,0.37526456025469185
+GO_BP: mitotic metaphase plate congression (GO:0007080),3,0.2622031542469713,3,0.3809032308317489
+GO_BP: glycolipid metabolic process (GO:0006664),3,0.2622031542469713,3,0.3809032308317489
+GO_BP: fibroblast growth factor receptor signaling pathway (GO:0008543),4,0.26534473804114256,3,0.3839106236799842
+GO_BP: response to amino acid starvation (GO:1990928),4,0.26534473804114256,4,0.3839106236799842
+GO_BP: nucleic acid phosphodiester bond hydrolysis (GO:0090305),4,0.26534473804114256,4,0.3839106236799842
+KEGG: KEGG_WNT_SIGNALING_PATHWAY,7,0.2692090047832197,6,0.3878351234545069
+GO_BP: positive regulation of translation (GO:0045727),5,0.2697545132974824,5,0.3878351234545069
+GO_BP: cell-matrix adhesion (GO:0007160),5,0.2697545132974824,5,0.3878351234545069
+GO_BP: circulatory system development (GO:0072359),6,0.2704520929841932,4,0.3878351234545069
+GO_BP: platelet degranulation (GO:0002576),6,0.2704520929841932,6,0.3878351234545069
+GO_BP: protein homotetramerization (GO:0051289),3,0.2717085318693236,3,0.3878351234545069
+GO_BP: sprouting angiogenesis (GO:0002040),3,0.2717085318693236,3,0.3878351234545069
+KEGG: KEGG_MTOR_SIGNALING_PATHWAY,3,0.2717085318693236,3,0.3878351234545069
+GO_BP: protein import into nucleus (GO:0006606),4,0.2731080822837783,3,0.3878351234545069
+GO_BP: establishment of protein localization to organelle (GO:0072594),4,0.2731080822837783,3,0.3878351234545069
+GO_BP: phospholipid metabolic process (GO:0006644),4,0.2731080822837783,3,0.3878351234545069
+GO_BP: cellular response to UV (GO:0034644),4,0.2731080822837783,4,0.3878351234545069
+GO_BP: cholesterol metabolic process (GO:0008203),4,0.2731080822837783,4,0.3878351234545069
+GO_BP: chloride transport (GO:0006821),4,0.2731080822837783,4,0.3878351234545069
+KEGG: KEGG_NEUROTROPHIN_SIGNALING_PATHWAY,6,0.2764258710709018,6,0.39202877493564564
+GO_BP: positive regulation of developmental process (GO:0051094),8,0.2768570090433037,8,0.39212290477147754
+GO_BP: apoptotic process (GO:0006915),10,0.27791083063144617,10,0.3930975564852693
+GO_BP: dephosphorylation (GO:0016311),7,0.28007731442742123,6,0.39564140999931385
+GO_BP: regulation of DNA replication (GO:0006275),3,0.28125030573034393,3,0.39677700611564265
+KEGG: KEGG_HUNTINGTONS_DISEASE,8,0.28189158530065944,7,0.39716049043015583
+GO_BP: calcium-mediated signaling (GO:0019722),5,0.2832090455158205,5,0.39797349533268894
+GO_BP: positive regulation of vasculature development (GO:1904018),5,0.2832090455158205,5,0.39797349533268894
+GO_BP: organelle organization (GO:0006996),17,0.28438438355565576,15,0.3991034103424673
+GO_BP: mRNA transport (GO:0051028),5,0.28998448876490074,5,0.4039185686010388
+KEGG: KEGG_INOSITOL_PHOSPHATE_METABOLISM,3,0.29082136939274794,3,0.4039185686010388
+GO_BP: regulation of posttranscriptional gene silencing (GO:0060147),3,0.29082136939274794,3,0.4039185686010388
+KEGG: KEGG_RNA_DEGRADATION,3,0.29082136939274794,3,0.4039185686010388
+KEGG: KEGG_VIBRIO_CHOLERAE_INFECTION,3,0.29082136939274794,3,0.4039185686010388
+KEGG: KEGG_NON_SMALL_CELL_LUNG_CANCER,3,0.29082136939274794,3,0.4039185686010388
+GO_BP: regulation of gene silencing by RNA (GO:0060966),3,0.29082136939274794,3,0.4039185686010388
+GO_BP: glycosaminoglycan metabolic process (GO:0030203),3,0.29082136939274794,3,0.4039185686010388
+GO_BP: regulated exocytosis (GO:0045055),8,0.2920317857541201,8,0.4050763479815214
+GO_BP: regulation of response to external stimulus (GO:0032101),6,0.29452395456850083,6,0.4069579063767846
+GO_BP: Golgi organization (GO:0007030),6,0.29452395456850083,6,0.4069579063767846
+KEGG: KEGG_AXON_GUIDANCE,6,0.29452395456850083,6,0.4069579063767846
+GO_BP: recombinational repair (GO:0000725),4,0.2966102620583488,4,0.40878978424708323
+GO_BP: mRNA 3'-end processing (GO:0031124),4,0.2966102620583488,4,0.40878978424708323
+KEGG: KEGG_PATHOGENIC_ESCHERICHIA_COLI_INFECTION,3,0.30041482343249026,3,0.41192083570143756
+GO_BP: protein sumoylation (GO:0016925),3,0.30041482343249026,3,0.41192083570143756
+GO_BP: negative regulation of cytokine-mediated signaling pathway (GO:0001960),3,0.30041482343249026,3,0.41192083570143756
+KEGG: KEGG_BASAL_CELL_CARCINOMA,3,0.30041482343249026,2,0.41192083570143756
+Hallmark: HALLMARK_PI3K_AKT_MTOR_SIGNALING,5,0.3036188949276925,5,0.4136759341537002
+GO_BP: positive regulation of cellular metabolic process (GO:0031325),5,0.3036188949276925,4,0.4136759341537002
+GO_BP: mRNA export from nucleus (GO:0006406),5,0.3036188949276925,5,0.4136759341537002
+GO_BP: RNA export from nucleus (GO:0006405),5,0.3036188949276925,5,0.4136759341537002
+GO_BP: regulation of phosphatidylinositol 3-kinase signaling (GO:0014066),5,0.3036188949276925,4,0.4136759341537002
+GO_BP: regulation of organelle organization (GO:0033043),4,0.3045018472392676,4,0.41435377947115526
+GO_BP: protein localization to plasma membrane (GO:0072659),6,0.30671849263783046,6,0.416842452067848
+GO_BP: autophagosome organization (GO:1905037),3,0.3100239780922322,3,0.42027210144911675
+GO_BP: renal system development (GO:0072001),3,0.3100239780922322,3,0.42027210144911675
+GO_BP: response to tumor necrosis factor (GO:0034612),5,0.31047278314067717,5,0.42035043057459437
+GO_BP: peptide metabolic process (GO:0006518),4,0.3124157494541947,4,0.42244896938774756
+GO_BP: post-translational protein modification (GO:0043687),14,0.31807825066745593,12,0.42956547671798384
+GO_BP: cellular response to peptide (GO:1901653),3,0.31964235520900974,3,0.43045000902440106
+GO_BP: regulation of mitotic nuclear division (GO:0007088),3,0.31964235520900974,3,0.43045000902440106
+GO_BP: negative regulation of signal transduction (GO:0009968),11,0.31993447182371765,10,0.43045000902440106
+GO_BP: positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),4,0.3203481977480461,4,0.430467890723937
+Hallmark: HALLMARK_UNFOLDED_PROTEIN_RESPONSE,5,0.3242414162243215,5,0.435155458728022
+GO_BP: regulation of cell cycle (GO:0051726),12,0.32511465435189496,12,0.4353732671387046
+KEGG: KEGG_HYPERTROPHIC_CARDIOMYOPATHY_HCM,4,0.3282954893683692,4,0.4353732671387046
+GO_BP: glycoprotein biosynthetic process (GO:0009101),4,0.3282954893683692,4,0.4353732671387046
+GO_BP: membrane lipid biosynthetic process (GO:0046467),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: mitochondrial respiratory chain complex I assembly (GO:0032981),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: receptor metabolic process (GO:0043112),3,0.3292636894732715,3,0.4353732671387046
+KEGG: KEGG_ARACHIDONIC_ACID_METABOLISM,3,0.3292636894732715,3,0.4353732671387046
+GO_BP: NADH dehydrogenase complex assembly (GO:0010257),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: fat cell differentiation (GO:0045444),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: positive regulation of mitotic cell cycle phase transition (GO:1901992),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: positive regulation of protein binding (GO:0032092),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: autophagosome assembly (GO:0000045),3,0.3292636894732715,3,0.4353732671387046
+GO_BP: modulation of chemical synaptic transmission (GO:0050804),5,0.331151233111393,5,0.43679457128189875
+GO_BP: lipid transport (GO:0006869),5,0.331151233111393,5,0.43679457128189875
+GO_BP: rRNA metabolic process (GO:0016072),7,0.33581084202911027,6,0.44239786174178125
+GO_BP: negative regulation of inflammatory response to antigenic stimulus (GO:0002862),6,0.3375521744894063,6,0.4437489903452404
+GO_BP: protein-containing complex subunit organization (GO:0043933),5,0.3380748121793041,5,0.4437489903452404
+GO_BP: sulfur compound biosynthetic process (GO:0044272),5,0.3380748121793041,5,0.4437489903452404
+GO_BP: heart development (GO:0007507),7,0.34147959526857874,5,0.4476714206264904
+KEGG: KEGG_INSULIN_SIGNALING_PATHWAY,6,0.3437643239673934,6,0.4495701317091824
+GO_BP: regulation of inflammatory response to antigenic stimulus (GO:0002861),6,0.3437643239673934,6,0.4495701317091824
+GO_BP: regulation of protein serine-threonine kinase activity (GO:0071900),5,0.34500976287292323,5,0.4506506623188244
+KEGG: KEGG_PATHWAYS_IN_CANCER,13,0.34549827051703513,11,0.4507410689390932
+GO_BP: regulation of cytoskeleton organization (GO:0051493),5,0.35195372690775895,3,0.4578050246588968
+GO_BP: response to lipid (GO:0033993),5,0.35195372690775895,5,0.4578050246588968
+GO_BP: regulation of interferon-gamma production (GO:0032649),4,0.3521904701329373,4,0.4578050246588968
+GO_BP: pattern recognition receptor signaling pathway (GO:0002221),3,0.3580859844799611,3,0.4649063204299012
+GO_BP: cellular response to molecule of bacterial origin (GO:0071219),5,0.35890437972941264,5,0.46540676502909356
+GO_BP: transcription initiation from RNA polymerase II promoter (GO:0006367),6,0.36246048207685194,6,0.4694518291959227
+GO_BP: tRNA processing (GO:0008033),3,0.3676607623278603,3,0.4744721722718485
+GO_BP: positive regulation of cysteine-type endopeptidase activity (GO:2001056),3,0.3676607623278603,3,0.4744721722718485
+GO_BP: stress-activated MAPK cascade (GO:0051403),3,0.3676607623278603,2,0.4744721722718485
+GO_BP: negative regulation of binding (GO:0051100),4,0.3681300681256981,4,0.47450818133708084
+KEGG: KEGG_LEUKOCYTE_TRANSENDOTHELIAL_MIGRATION,5,0.37281663026991696,5,0.47874987590660767
+"GO_BP: RNA splicing, via transesterification reactions with bulged adenosine as nucleophile (GO:0000377)",10,0.37395321471895654,9,0.47874987590660767
+GO_BP: positive regulation of inflammatory response (GO:0050729),4,0.376092764652835,4,0.47874987590660767
+GO_BP: positive regulation of autophagy (GO:0010508),4,0.376092764652835,4,0.47874987590660767
+"GO_BP: regulation of mRNA splicing, via spliceosome (GO:0048024)",4,0.376092764652835,3,0.47874987590660767
+GO_BP: negative regulation of translation (GO:0017148),4,0.376092764652835,4,0.47874987590660767
+GO_BP: monocarboxylic acid biosynthetic process (GO:0072330),3,0.3772103673422295,3,0.47874987590660767
+GO_BP: COPII vesicle coating (GO:0048208),3,0.3772103673422295,2,0.47874987590660767
+GO_BP: neuropeptide signaling pathway (GO:0007218),3,0.3772103673422295,3,0.47874987590660767
+"GO_BP: vesicle targeting, rough ER to cis-Golgi (GO:0048207)",3,0.3772103673422295,2,0.47874987590660767
+GO_BP: positive regulation of DNA metabolic process (GO:0051054),3,0.3772103673422295,3,0.47874987590660767
+GO_BP: positive regulation of viral process (GO:0048524),3,0.3772103673422295,3,0.47874987590660767
+GO_BP: vesicle coating (GO:0006901),3,0.3772103673422295,2,0.47874987590660767
+GO_BP: positive regulation of signal transduction (GO:0009967),10,0.3786445891417042,10,0.4800034591124198
+GO_BP: positive regulation of phosphorylation (GO:0042327),10,0.38334122818037647,9,0.4853849473426439
+GO_BP: positive regulation of binding (GO:0051099),4,0.3840464745348836,4,0.48570583544117635
+Hallmark: HALLMARK_APICAL_JUNCTION,8,0.38622142874489473,8,0.48623923065307584
+GO_BP: regulation of extrinsic apoptotic signaling pathway (GO:2001236),3,0.3867298067054696,2,0.48623923065307584
+GO_BP: protein catabolic process (GO:0030163),3,0.3867298067054696,3,0.48623923065307584
+GO_BP: diterpenoid metabolic process (GO:0016101),3,0.3867298067054696,2,0.48623923065307584
+GO_BP: protein secretion (GO:0009306),3,0.3867298067054696,3,0.48623923065307584
+GO_BP: cellular response to lipopolysaccharide (GO:0071222),5,0.39367914182116376,5,0.4943984549740082
+GO_BP: steroid biosynthetic process (GO:0006694),3,0.3962142946700755,3,0.4960736740501873
+KEGG: KEGG_GLIOMA,3,0.3962142946700755,3,0.4960736740501873
+GO_BP: regulation of macromolecule metabolic process (GO:0060255),8,0.39685893924014987,8,0.4960736740501873
+Hallmark: HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION,8,0.39685893924014987,8,0.4960736740501873
+GO_BP: rRNA processing (GO:0006364),7,0.3986135877476641,6,0.49768827738529486
+GO_BP: retinoid metabolic process (GO:0001523),4,0.3999146706782779,3,0.49873349301525377
+GO_BP: ncRNA processing (GO:0034470),8,0.4021799265309276,7,0.5009773128861497
+GO_BP: regulation of gene silencing by miRNA (GO:0060964),3,0.4056592501506684,3,0.5041429987421602
+GO_BP: transcription elongation from RNA polymerase II promoter (GO:0006368),3,0.4056592501506684,3,0.5041429987421602
+GO_BP: regulation of angiogenesis (GO:0045765),8,0.41282150323335637,8,0.5124516350760486
+GO_BP: regulation of viral genome replication (GO:0045069),3,0.4150602940274192,3,0.5140435669118383
+KEGG: KEGG_ADIPOCYTOKINE_SIGNALING_PATHWAY,3,0.4150602940274192,3,0.5140435669118383
+GO_BP: negative regulation of cellular protein metabolic process (GO:0032269),4,0.41571096051190376,4,0.5142569419451053
+GO_BP: regulation of G2-M transition of mitotic cell cycle (GO:0010389),6,0.41870056076173573,5,0.517359888297547
+"GO_BP: DNA-templated transcription, elongation (GO:0006354)",3,0.4244132461908731,3,0.5238165782493555
+GO_BP: regulation of translation (GO:0006417),7,0.4272341449053359,7,0.5266934699234359
+KEGG: KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS,4,0.43141298954673457,4,0.5304239835414464
+GO_BP: defense response to Gram-positive bacterium (GO:0050830),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: negative regulation of cellular catabolic process (GO:0031330),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: kidney development (GO:0001822),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: cellular response to calcium ion (GO:0071277),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: sterol metabolic process (GO:0016125),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: positive regulation of MAP kinase activity (GO:0043406),3,0.4337141223562152,3,0.5304239835414464
+GO_BP: regulation of protein secretion (GO:0050708),5,0.43517561811337324,5,0.5316065789453139
+GO_BP: positive regulation of cellular biosynthetic process (GO:0031328),7,0.43864500034261306,6,0.5352365214169229
+GO_BP: regulation of phosphorylation (GO:0042325),5,0.44203909832708943,5,0.5374504124984404
+GO_BP: regulation of plasma membrane bounded cell projection assembly (GO:0120032),3,0.44295913067313314,3,0.5374504124984404
+GO_BP: carbohydrate homeostasis (GO:0033500),3,0.44295913067313314,3,0.5374504124984404
+KEGG: KEGG_PANCREATIC_CANCER,3,0.44295913067313314,3,0.5374504124984404
+GO_BP: COPII-coated vesicle budding (GO:0090114),3,0.44295913067313314,2,0.5374504124984404
+KEGG: KEGG_ENDOCYTOSIS,7,0.4443379197600421,7,0.5385155171838165
+GO_BP: organic anion transport (GO:0015711),4,0.4469997540717208,4,0.5411314590395269
+KEGG: KEGG_PARKINSONS_DISEASE,5,0.4488826201145352,5,0.5418679133415516
+GO_BP: negative regulation of programmed cell death (GO:0043069),14,0.4507476230315997,12,0.5418679133415516
+GO_BP: phosphatidylinositol-mediated signaling (GO:0048015),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: cellular response to BMP stimulus (GO:0071773),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: regulation of glycolytic process (GO:0006110),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: Fc-gamma receptor signaling pathway involved in phagocytosis (GO:0038096),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: fatty acid biosynthetic process (GO:0006633),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: regulation of G1-S transition of mitotic cell cycle (GO:2000045),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: positive regulation of neurogenesis (GO:0050769),3,0.4521446681556947,3,0.5418679133415516
+GO_BP: regulation of transforming growth factor beta receptor signaling pathway (GO:0017015),4,0.4547437181247323,4,0.5443758318308322
+GO_BP: regulation of cellular macromolecule biosynthetic process (GO:2000112),17,0.4553225980106435,15,0.544462505963784
+GO_BP: positive regulation of NF-kappaB transcription factor activity (GO:0051092),6,0.4559031117176795,6,0.5445509389961172
+GO_BP: Fc-gamma receptor signaling pathway (GO:0038094),3,0.4612673169549717,3,0.5481704035982852
+GO_BP: cell junction organization (GO:0034330),3,0.4612673169549717,3,0.5481704035982852
+GO_BP: cell morphogenesis involved in differentiation (GO:0000904),3,0.4612673169549717,3,0.5481704035982852
+GO_BP: positive regulation of secretion by cell (GO:1903532),3,0.4612673169549717,3,0.5481704035982852
+GO_BP: response to lipopolysaccharide (GO:0032496),6,0.46205424131319,6,0.5481704035982852
+Hallmark: HALLMARK_UV_RESPONSE_UP,6,0.46205424131319,5,0.5481704035982852
+GO_BP: muscle contraction (GO:0006936),5,0.462502842849902,5,0.5481704035982852
+GO_BP: cellular response to insulin stimulus (GO:0032869),5,0.4692761851193129,5,0.5501611844752445
+KEGG: KEGG_OXIDATIVE_PHOSPHORYLATION,5,0.4692761851193129,5,0.5501611844752445
+GO_BP: positive regulation of macromolecule biosynthetic process (GO:0010557),5,0.4692761851193129,4,0.5501611844752445
+GO_BP: cellular response to chemical stress (GO:0062197),4,0.4701211580620492,4,0.5501611844752445
+GO_BP: epithelial cell differentiation (GO:0030855),4,0.4701211580620492,4,0.5501611844752445
+GO_BP: sphingolipid biosynthetic process (GO:0030148),3,0.4703238404955811,3,0.5501611844752445
+GO_BP: negative regulation of cell adhesion (GO:0007162),3,0.4703238404955811,3,0.5501611844752445
+GO_BP: neurotransmitter transport (GO:0006836),3,0.4703238404955811,3,0.5501611844752445
+GO_BP: ubiquitin-dependent ERAD pathway (GO:0030433),3,0.4703238404955811,3,0.5501611844752445
+KEGG: KEGG_CHRONIC_MYELOID_LEUKEMIA,3,0.4703238404955811,3,0.5501611844752445
+GO_BP: regulation of Rho protein signal transduction (GO:0035023),3,0.4703238404955811,3,0.5501611844752445
+GO_BP: endoplasmic reticulum organization (GO:0007029),3,0.4703238404955811,3,0.5501611844752445
+GO_BP: cellular response to growth factor stimulus (GO:0071363),6,0.47430246218663,6,0.5542121161419862
+GO_BP: cellular response to hypoxia (GO:0071456),5,0.47602285198023225,4,0.5553039476309479
+GO_BP: extracellular structure organization (GO:0043062),8,0.476269990433241,6,0.5553039476309479
+GO_BP: positive regulation of cellular protein metabolic process (GO:0032270),4,0.47775022388026295,4,0.5564263170869801
+GO_BP: positive regulation of lymphocyte proliferation (GO:0050671),3,0.47931117949583524,3,0.5564357645335021
+GO_BP: Fc receptor mediated stimulatory signaling pathway (GO:0002431),3,0.47931117949583524,3,0.5564357645335021
+GO_BP: regulation of RNA splicing (GO:0043484),3,0.47931117949583524,3,0.5564357645335021
+"GO_BP: mRNA splicing, via spliceosome (GO:0000398)",10,0.4819883380672153,9,0.5589400899916467
+GO_BP: regulation of mitotic cell cycle phase transition (GO:1901990),7,0.48385591197604017,6,0.5605011911360379
+GO_BP: cellular protein metabolic process (GO:0044267),15,0.4878267355319286,15,0.5631367290574186
+GO_BP: cellular response to hormone stimulus (GO:0032870),3,0.48822644788978065,3,0.5631367290574186
+GO_BP: water-soluble vitamin metabolic process (GO:0006767),3,0.48822644788978065,3,0.5631367290574186
+GO_BP: regulation of organelle assembly (GO:1902115),3,0.48822644788978065,3,0.5631367290574186
+GO_BP: transmembrane receptor protein serine-threonine kinase signaling pathway (GO:0007178),5,0.49608738555526455,5,0.5715905031853262
+GO_BP: chromosome organization (GO:0051276),4,0.5003740776388812,4,0.5759123484601685
+GO_BP: negative regulation of developmental process (GO:0051093),3,0.5058300696536575,3,0.580005827804662
+KEGG: KEGG_CARDIAC_MUSCLE_CONTRACTION,3,0.5058300696536575,3,0.580005827804662
+GO_BP: purine ribonucleotide metabolic process (GO:0009150),3,0.5058300696536575,3,0.580005827804662
+GO_BP: ribosome biogenesis (GO:0042254),7,0.506088806028626,6,0.580005827804662
+GO_BP: cellular response to peptide hormone stimulus (GO:0071375),4,0.5078211872270466,4,0.5807529534777395
+GO_BP: regulation of cell cycle process (GO:0010564),4,0.5078211872270466,4,0.5807529534777395
+GO_BP: ribonucleoprotein complex assembly (GO:0022618),5,0.5093029101587356,5,0.5818285105426576
+GO_BP: regulation of fat cell differentiation (GO:0045598),3,0.5145134792260565,3,0.5859131251779774
+GO_BP: protein modification process (GO:0036211),3,0.5145134792260565,3,0.5859131251779774
+GO_BP: negative regulation of blood vessel morphogenesis (GO:2000181),3,0.5145134792260565,3,0.5859131251779774
+Hallmark: HALLMARK_MYC_TARGETS_V1,7,0.5170859841441361,7,0.5882195057724299
+Hallmark: HALLMARK_P53_PATHWAY,7,0.5225517482358755,7,0.5925695902630835
+KEGG: KEGG_T_CELL_RECEPTOR_SIGNALING_PATHWAY,4,0.5225634740427977,4,0.5925695902630835
+GO_BP: negative regulation of cell cycle (GO:0045786),3,0.5231149220089919,3,0.5925695902630835
+GO_BP: regulation of neuron differentiation (GO:0045664),3,0.5231149220089919,3,0.5925695902630835
+GO_BP: regulation of nucleic acid-templated transcription (GO:1903506),15,0.5252692823169153,13,0.5943836615691409
+GO_BP: cilium organization (GO:0044782),8,0.5278678908144255,7,0.5966960910888617
+GO_BP: regulation of interleukin-8 production (GO:0032677),3,0.5316323145324877,3,0.6003201030697735
+GO_BP: positive regulation of protein phosphorylation (GO:0001934),13,0.5324375028965687,12,0.6005984424069374
+GO_BP: response to endoplasmic reticulum stress (GO:0034976),4,0.537092371077163,4,0.6052141497986899
+Hallmark: HALLMARK_E2F_TARGETS,7,0.5388080316374628,7,0.6065116586495001
+GO_BP: activation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0006919),3,0.540063720881653,3,0.607289225886796
+GO_BP: cellular divalent inorganic cation homeostasis (GO:0072503),4,0.5442730293277892,4,0.6113829744277675
+GO_BP: cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),6,0.5457914155304673,4,0.6118099809126719
+GO_BP: positive regulation of I-kappaB kinase-NF-kappaB signaling (GO:0043123),6,0.5457914155304673,6,0.6118099809126719
+GO_BP: cell-cell junction organization (GO:0045216),3,0.5484073483424224,2,0.6141019786126085
+Hallmark: HALLMARK_BILE_ACID_METABOLISM,4,0.551395966454457,4,0.6161649313290449
+KEGG: KEGG_OOCYTE_MEIOSIS,4,0.551395966454457,4,0.6161649313290449
+GO_BP: neuron development (GO:0048666),5,0.554378670394322,5,0.6188546943654165
+GO_BP: positive regulation of cellular component organization (GO:0051130),4,0.5584598778939069,3,0.6227638679833506
+GO_BP: nuclear export (GO:0051168),3,0.5648247856764959,3,0.6285576031079018
+GO_BP: response to interleukin-1 (GO:0070555),3,0.5648247856764959,3,0.6285576031079018
+GO_BP: negative regulation of cell motility (GO:2000146),4,0.5654635304762495,4,0.6286176786576714
+GO_BP: negative regulation of cell migration (GO:0030336),5,0.5668826234267708,5,0.629544235727044
+GO_BP: neuron differentiation (GO:0030182),6,0.5686627463222238,5,0.6308694038146446
+GO_BP: sphingolipid metabolic process (GO:0006665),4,0.5724057611143154,4,0.6336037691503443
+GO_BP: calcium ion transport (GO:0006816),4,0.5724057611143154,4,0.6336037691503443
+KEGG: KEGG_PROGESTERONE_MEDIATED_OOCYTE_MATURATION,3,0.572895687082916,3,0.6336037691503443
+GO_BP: regulation of protein phosphorylation (GO:0001932),9,0.5747338139960042,9,0.6349834018969214
+GO_BP: glucose homeostasis (GO:0042593),3,0.5808729840811079,3,0.6397935019335973
+GO_BP: calcium ion transmembrane transport (GO:0070588),3,0.5808729840811079,3,0.6397935019335973
+GO_BP: regulation of Ras protein signal transduction (GO:0046578),3,0.5808729840811079,3,0.6397935019335973
+KEGG: KEGG_MAPK_SIGNALING_PATHWAY,9,0.5883959094990968,8,0.645828775828767
+GO_BP: negative regulation of angiogenesis (GO:0016525),3,0.5887555351741318,3,0.645828775828767
+GO_BP: protein targeting to membrane (GO:0006612),3,0.5887555351741318,3,0.645828775828767
+GO_BP: ERAD pathway (GO:0036503),3,0.5887555351741318,3,0.645828775828767
+GO_BP: regulation of cytokine production (GO:0001817),5,0.5913392568699996,4,0.6480017340828231
+GO_BP: axonogenesis (GO:0007409),8,0.5966969682114904,7,0.6532069662192996
+GO_BP: response to cytokine (GO:0034097),5,0.5973336560404252,5,0.65323873880311
+GO_BP: second-messenger-mediated signaling (GO:0019932),3,0.6042324170051665,3,0.6587726655989391
+GO_BP: regulation of cation channel activity (GO:2001257),3,0.6042324170051665,3,0.6587726655989391
+KEGG: KEGG_PROSTATE_CANCER,3,0.6042324170051665,3,0.6587726655989391
+GO_BP: macroautophagy (GO:0016236),4,0.6061596117425545,4,0.6602042377135219
+GO_BP: organelle assembly (GO:0070925),14,0.6102875039718575,12,0.6636850791012773
+KEGG: KEGG_DILATED_CARDIOMYOPATHY,3,0.611825035711038,3,0.6636850791012773
+GO_BP: mitochondrial respiratory chain complex assembly (GO:0033108),3,0.611825035711038,3,0.6636850791012773
+GO_BP: positive regulation of transmembrane receptor protein serine-threonine kinase signaling pathway (GO:0090100),3,0.611825035711038,3,0.6636850791012773
+GO_BP: epithelium development (GO:0060429),4,0.6127126384093218,4,0.6639779095665533
+GO_BP: plasma membrane bounded cell projection assembly (GO:0120031),9,0.6237894612682924,7,0.6753007762974967
+GO_BP: defense response to symbiont (GO:0140546),4,0.6256148885594226,4,0.6764244776315567
+GO_BP: T cell activation (GO:0042110),3,0.6267151439265399,3,0.6764244776315567
+GO_BP: regulation of epithelial cell proliferation (GO:0050678),3,0.6267151439265399,3,0.6764244776315567
+GO_BP: external encapsulating structure organization (GO:0045229),7,0.6309507056056172,5,0.680312947368143
+GO_BP: fatty acid metabolic process (GO:0006631),4,0.6319628642409576,4,0.6807215221032359
+GO_BP: positive regulation of peptidyl-serine phosphorylation (GO:0033138),3,0.6340115409695897,3,0.6822446511935024
+GO_BP: cellular response to starvation (GO:0009267),5,0.6434563968484963,5,0.6917156266121336
+KEGG: KEGG_SPLICEOSOME,4,0.6444498183242648,4,0.6920914632353494
+GO_BP: calcium ion homeostasis (GO:0055074),3,0.6621976667013225,3,0.7097332918284364
+GO_BP: glycosaminoglycan biosynthetic process (GO:0006024),3,0.6621976667013225,3,0.7097332918284364
+GO_BP: defense response to virus (GO:0051607),4,0.674429038199799,4,0.7214041950893373
+KEGG: KEGG_TIGHT_JUNCTION,4,0.674429038199799,4,0.7214041950893373
+GO_BP: double-strand break repair (GO:0006302),5,0.6758026019668159,5,0.7221548679068858
+KEGG: KEGG_NATURAL_KILLER_CELL_MEDIATED_CYTOTOXICITY,4,0.6802102597817521,4,0.7261430280689012
+GO_BP: regulation of cell death (GO:0010941),3,0.6822836540849863,3,0.7276338572830955
+Hallmark: HALLMARK_GLYCOLYSIS,6,0.6832179729790864,6,0.7279081476239028
+KEGG: KEGG_FOCAL_ADHESION,6,0.6925837408786512,6,0.7364268263546488
+Hallmark: HALLMARK_TNFA_SIGNALING_VIA_NFKB,6,0.6925837408786512,5,0.7364268263546488
+GO_BP: cellular calcium ion homeostasis (GO:0006874),4,0.6971216443271513,4,0.7398689255057281
+Hallmark: HALLMARK_KRAS_SIGNALING_UP,6,0.6971974153835373,6,0.7398689255057281
+GO_BP: cellular response to cytokine stimulus (GO:0071345),15,0.6988481188061932,10,0.7408892778270787
+GO_BP: modification-dependent protein catabolic process (GO:0019941),6,0.7017647469709634,6,0.7417867286074588
+Hallmark: HALLMARK_INFLAMMATORY_RESPONSE,6,0.7017647469709634,6,0.7417867286074588
+Hallmark: HALLMARK_OXIDATIVE_PHOSPHORYLATION,6,0.7017647469709634,5,0.7417867286074588
+GO_BP: cellular metal ion homeostasis (GO:0006875),3,0.7076640461371608,3,0.7472876715102632
+GO_BP: nuclear-transcribed mRNA catabolic process (GO:0000956),5,0.7158048301729107,4,0.7551424852167606
+GO_BP: small GTPase mediated signal transduction (GO:0007264),3,0.7197590513540799,2,0.7578266211612497
+GO_BP: peptidyl-lysine modification (GO:0018205),3,0.7197590513540799,3,0.7578266211612497
+GO_BP: mitochondrion organization (GO:0007005),5,0.725239729104466,5,0.7625451739438325
+GO_BP: response to calcium ion (GO:0051592),3,0.7256592678553866,3,0.7625451739438325
+GO_BP: Ras protein signal transduction (GO:0007265),4,0.7289979461064319,3,0.7653054610004045
+GO_BP: negative regulation of transmembrane receptor protein serine-threonine kinase signaling pathway (GO:0090101),3,0.7314620048214602,3,0.767143078227385
+GO_BP: chromatin organization (GO:0006325),4,0.7340593743879422,4,0.7691167909035457
+GO_BP: regulation of macroautophagy (GO:0016241),3,0.7427774459582157,3,0.7774197663583358
+GO_BP: protein stabilization (GO:0050821),5,0.7434302509919712,5,0.7774197663583358
+GO_BP: chemical synaptic transmission (GO:0007268),9,0.7441743051562135,9,0.7774415724421083
+KEGG: KEGG_REGULATION_OF_ACTIN_CYTOSKELETON,6,0.7489234306593944,5,0.7816433863678145
+"GO_BP: nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",3,0.753710599487526,3,0.7858767162454805
+GO_BP: cilium assembly (GO:0060271),9,0.7608663052081693,8,0.7925690679251765
+GO_BP: protein modification by small protein conjugation (GO:0032446),12,0.7633996293332121,12,0.7944381428201385
+GO_BP: protein polyubiquitination (GO:0000209),9,0.7673252580418797,7,0.7977511145019542
+GO_BP: adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),3,0.7842772536348992,3,0.8145874856594364
+GO_BP: positive regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043280),3,0.7890549521028997,3,0.8187587582148814
+GO_BP: regulation of cell differentiation (GO:0045595),4,0.7934857825704762,4,0.8225624071969739
+Hallmark: HALLMARK_HEME_METABOLISM,5,0.8000832622060072,5,0.8286026077759708
+GO_BP: potassium ion transport (GO:0006813),3,0.8028634478536244,3,0.8306816231401792
+GO_BP: skeletal system development (GO:0001501),4,0.8055745196584818,4,0.8326852006085269
+GO_BP: regulation of anatomical structure morphogenesis (GO:0022603),3,0.8072946618359794,3,0.8328786394197482
+Hallmark: HALLMARK_G2M_CHECKPOINT,5,0.8073112021166303,5,0.8328786394197482
+GO_BP: negative regulation of growth (GO:0045926),3,0.8159056753459482,3,0.8401327595755692
+GO_BP: negative regulation of cell growth (GO:0030308),3,0.8159056753459482,3,0.8401327595755692
+GO_BP: peptide biosynthetic process (GO:0043043),4,0.817082601199429,4,0.8405395179802738
+Hallmark: HALLMARK_ESTROGEN_RESPONSE_LATE,5,0.821143892019967,5,0.8439098316648801
+GO_BP: negative regulation of nucleic acid-templated transcription (GO:1903507),13,0.8223057690471458,13,0.8442967542747676
+Hallmark: HALLMARK_IL2_STAT5_SIGNALING,5,0.8244744658837317,5,0.8457156973521103
+Hallmark: HALLMARK_HYPOXIA,5,0.8309853164744158,5,0.8513497531629316
+GO_BP: adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),4,0.8315509216940262,4,0.8513497531629316
+GO_BP: generation of neurons (GO:0048699),5,0.8341664314901411,4,0.8532149513338741
+GO_BP: axon guidance (GO:0007411),5,0.83729857722584,5,0.8556045347127167
+KEGG: KEGG_NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,7,0.8406715100188413,6,0.8582353972177155
+GO_BP: RNA metabolic process (GO:0016070),3,0.8435135582165733,2,0.8595043365713898
+GO_BP: regulation of cell motility (GO:2000145),3,0.8435135582165733,3,0.8595043365713898
+GO_BP: anterograde trans-synaptic signaling (GO:0098916),6,0.857480527997091,6,0.8729086814364325
+GO_BP: potassium ion transmembrane transport (GO:0071805),3,0.8642523510364027,3,0.8789699880455373
+GO_BP: translation (GO:0006412),5,0.8712290057369476,5,0.8852279595153296
+GO_BP: monocarboxylic acid metabolic process (GO:0032787),3,0.8767004766459697,3,0.8899461873412818
+Hallmark: HALLMARK_UV_RESPONSE_DN,3,0.8796501406493409,2,0.8920980199981523
+GO_BP: regulation of cytosolic calcium ion concentration (GO:0051480),3,0.8934770990411833,3,0.9052666177844223
+KEGG: KEGG_CHEMOKINE_SIGNALING_PATHWAY,4,0.8950319046437469,4,0.9059880390697062
+GO_BP: cellular response to organic cyclic compound (GO:0071407),3,0.8960654934572778,3,0.9061810023203891
+Hallmark: HALLMARK_ESTROGEN_RESPONSE_EARLY,4,0.9180742124961903,4,0.9275655812344027
+GO_BP: inorganic cation transmembrane transport (GO:0098662),6,0.9195095612413778,6,0.9276936559322131
+Hallmark: HALLMARK_KRAS_SIGNALING_DN,4,0.9199269183476644,4,0.9276936559322131
+GO_BP: cation transport (GO:0006812),3,0.9448464331234023,3,0.9519305675798102
+GO_BP: positive regulation of cell differentiation (GO:0045597),5,0.9479717844662903,5,0.9541850826790843
+KEGG: KEGG_CALCIUM_SIGNALING_PATHWAY,3,0.9489970794421629,3,0.9543235363894529
+GO_BP: central nervous system development (GO:0007417),5,0.958417034520261,4,0.9628956187937201
+GO_BP: inflammatory response (GO:0006954),4,0.9596696163504437,4,0.9632538165982512
+Hallmark: HALLMARK_XENOBIOTIC_METABOLISM,3,0.9700406199790887,3,0.9727552858932094
+GO_BP: nervous system development (GO:0007399),9,0.9754150473195635,8,0.9772331555158721
+KEGG: KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,4,0.9832327631647358,4,0.9841482499088371
+KEGG: KEGG_OLFACTORY_TRANSDUCTION,3,0.9998925367153735,2,0.9998925367153735
